@@ -40,7 +40,7 @@ Dan Rockmore</a>. </p>
 
 <figure>
 <center>
-<img src="images/Daryl_64492.jpg" style="width:400px;height:300px;"/>
+<img src="../images/Daryl_64492.jpg" style="width:400px;height:300px;"/>
 </center>
 </figure>
 
