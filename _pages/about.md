@@ -9,7 +9,7 @@ redirect_from:
 
 
 <p> I am an Assistant Professor of Data Analytics in the <a href="http://math.wsu.edu">Department of Mathematics and Statistics</a> at Washington State University.
-You can download  my C.V. <a href="CV_DeFord_academic.pdf"> here</a> and see the exciting things my students are up to
+You can download  my C.V. <a href="CV_DeFord.pdf"> here</a> and see the exciting things my students are up to
  <a href="students.php">here</a>.</p>
 <p> Previously, I was a postdoctoral associate at MIT (CSAIL)
  in the
@@ -40,7 +40,7 @@ Dan Rockmore</a>. </p>
 
 <figure>
 <center>
-<img src="Daryl_6449.jpg" style="width:400px;height:300px;"/>
+<img src="Daryl_64492.jpg" style="width:400px;height:300px;"/>
 </center>
 </figure>
 
