@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "trimmed2.jpg"
   name             : "Daryl R. DeFord"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Data Analytics"
   location         : "Uniontown, WA"
   employer         : "Washington State University"
-  uri              : https://daryldeford.com
+  uri              : "https://daryldeford.com"
   email            : "daryl.deford@wsu.edu" 
 
   # Academic websites
