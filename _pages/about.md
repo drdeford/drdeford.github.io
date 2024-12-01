@@ -21,29 +21,23 @@ You can download  my C.V. <a href="./files/CV_DeFord.pdf"> here</a> and see the 
  <a href="https://home.dartmouth.edu/faculty-directory/daniel-rockmore">
 Dan Rockmore</a>. </p>
 
-<figure>
-<center>
+<p align="center">
   <img src="./images/space10.gif" width="24%" />
   <img src="./images/sir3.gif" width="24%" />
    <img src="./images/tetgifgif.gif" width="24%" />
 <img src="./images/100d_go.gif" width="24%" />
-</center>
-</figure>
+</p>
 
-<figure>
-<center>
+<p align="center">
   <img src="./images/sg1.gif" width="24%" />
   <img src="./images/sg3.gif" width="24%" />
    <img src="./images/sg2.gif" width="24%" />
 <img src="./images/sg4.gif" width="24%" />
-</center>
-</figure>
+</p>
 
-<figure>
-<center>
+<p align="center">
   <img src="./images/lifted_gif.gif" width="24%" />
   <img src="./images/LWAR.gif" width="24%" />
   <img src="./images/TWOEDGE_1.gif" width="24%" />
    <img src="./images/marked_big_cheat.gif" width="24%" />
-</center>
-</figure>
+</p>
