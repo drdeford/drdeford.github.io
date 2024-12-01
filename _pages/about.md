@@ -23,7 +23,11 @@ Dan Rockmore</a>. </p>
 
 <figure>
 <center>
-<img src="./images/Daryl_64492.jpg" style="width:400px;height:300px;"/>
+#<img src="./images/Daryl_64492.jpg" style="width:400px;height:300px;"/>
+  <img src="./images/space10.gif" style="width:400px;height:300px;"/>
+  <img src="./images/sir3.gif" style="width:400px;height:300px;"/>
+   <img src="./images/tetgifgif.gif" style="width:400px;height:300px;"/>
+<img src="./images/100d_go.gif" style="width:400px;height:300px;"/>
 </center>
 </figure>
 
