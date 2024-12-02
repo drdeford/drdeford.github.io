@@ -26,8 +26,8 @@ Dan Rockmore</a>. </p>
 I really love generating .gifs from the kinds of discrete processes that come up in my research. Some colorful examples (with brief explanations in the mouseover text) below: 
 
 <p align="center">
-  <img src="./images/space10.gif" width="24%" <title>The ReCombination Markov chain running on a 3d cube. </title> />
-  <img src="./images/sir3.gif" width="24%" <title>The SIR process from epidemiology running on the counties of Arkansas. </title> />
+  <img src="./images/space10.gif" width="24%, title="The ReCombination Markov chain running on a 3d cube." />
+  <img src="./images/sir3.gif" width="24%", title="The SIR process from epidemiology running on the counties of Arkansas."  />
    <img src="./images/tetgifgif.gif" width="24%" />
 <img src="./images/100d_go.gif" width="24%" />
 </p>
