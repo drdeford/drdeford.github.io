@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<b> This page is still under construction but you can still find all my content at my previous webpage here: <a href="https://archive.math.wsu.edu/faculty/ddeford/">https://archive.math.wsu.edu/faculty/ddeford/</a> </b>
 
 <p> I am an Assistant Professor of Data Analytics in the <a href="http://math.wsu.edu">Department of Mathematics and Statistics</a> at Washington State University.
 You can download  my C.V. <a href="./files/DeFord_CV.pdf"> here</a> and see the exciting things my students are up to
