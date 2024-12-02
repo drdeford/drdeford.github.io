@@ -9,8 +9,8 @@ redirect_from:
 
 
 <p> I am an Assistant Professor of Data Analytics in the <a href="http://math.wsu.edu">Department of Mathematics and Statistics</a> at Washington State University.
-You can download  my C.V. <a href="./files/CV_DeFord.pdf"> here</a> and see the exciting things my students are up to
- <a href="students">here</a>. </p>
+You can download  my C.V. <a href="./files/DeFord_CV.pdf"> here</a> and see the exciting things my students are up to
+ <a href="/students">here</a>. </p>
 <p> Previously, I was a postdoctoral associate at MIT (CSAIL)
  in the
  <a href="http://groups.csail.mit.edu/gdpgroup/">Geometric Data Processing
@@ -21,9 +21,13 @@ You can download  my C.V. <a href="./files/CV_DeFord.pdf"> here</a> and see the 
  <a href="https://home.dartmouth.edu/faculty-directory/daniel-rockmore">
 Dan Rockmore</a>. </p>
 
+<hr>
+
+I really love generating .gifs from the kinds of discrete processes that come up in my research. Some colorful examples (with brief explanations in the mouseover text) below: 
+
 <p align="center">
-  <img src="./images/space10.gif" width="24%" />
-  <img src="./images/sir3.gif" width="24%" />
+  <img src="./images/space10.gif" width="24%" <title>The ReCombination Markov chain running on a 3d cube. </title> />
+  <img src="./images/sir3.gif" width="24%" <title>The SIR process from epidemiology running on the counties of Arkansas. </title> />
    <img src="./images/tetgifgif.gif" width="24%" />
 <img src="./images/100d_go.gif" width="24%" />
 </p>
