@@ -8,9 +8,15 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Resources"
+    url: /Resources/
+
+  - title: "Other Writing"
+    url: /other/
+
+  - title: "CV"
+    url: ../files/DeFord_CV.pdf
     
