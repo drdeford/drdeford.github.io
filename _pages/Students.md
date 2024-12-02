@@ -1,5 +1,5 @@
 At WSU I have had the opportunity to mentor research students at all levels, on a wide variety of project topics broadly aligned with my research interests.
- Follow the links below to get a sense for the exciting work my students are doing.  I am not currently accepting new graduate students. I have also supervised students during the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program. 
+ Follow the links below to get a sense for the exciting work my students are doing.  I have also supervised students during the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program. 
 
 
 <hr>
