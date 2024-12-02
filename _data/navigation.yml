@@ -15,8 +15,11 @@ main:
     url: /Resources/
 
   - title: "Other Writing"
-    url: /other/
+    url: /Other/
+
+  - title: "Students"
+    url: /Students/
 
   - title: "CV"
-    url: ../files/DeFord_CV.pdf
+    url: ./files/DeFord_CV.pdf
     
