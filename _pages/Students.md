@@ -1,6 +1,5 @@
 At WSU I have had the opportunity to mentor research students at all levels, on a wide variety of project topics broadly aligned with my research interests.
- Follow the links below to get a sense for the exciting work my students are doing.
- I am not currently accepting new graduate students. 
+ Follow the links below to get a sense for the exciting work my students are doing.  I am not currently accepting new graduate students. I have also supervised students during the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program. 
 
 
 <hr>
@@ -70,14 +69,20 @@ At WSU I have had the opportunity to mentor research students at all levels, on 
 -->
 <li> <a href="https://www.math.wsu.edu/students/yhu">Yang Hu</a> (WSU Applied Math 2023 - )
  </li>
-<li> <a href="https://www.math.wsu.edu/students/qqiao">Qingwei Qiao </a> (WSU Stats 2023 - )
-</li>
+
 
 </ul>
 
 <hr>
 <h3> Graduated MS Students </h3>
 <ul>
+ <li> <a href="https://www.math.wsu.edu/students/qqiao">Qingwei Qiao </a> (WSU Stats 2023 - 2024 )
+</li>
+ <ul> 
+<li>Topic: Do Social Network Strengths Affect Policy Interventions? Evidence from a Field
+Experiment in Madagascar </li>
+<li> Economist at Amazon </li>
+</ul>
 <li>  <a href="https://cahnrs.wsu.edu/people-directory/people/wsu-profile/sahil.patil/">
 Sahil Patil</a> (WSU Stats 2023 - 2024 )
 </li>
