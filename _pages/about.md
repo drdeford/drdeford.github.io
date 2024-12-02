@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+<hr>
 <b> This page is still under construction but you can still find all my content at my previous webpage here: <a href="https://archive.math.wsu.edu/faculty/ddeford/">https://archive.math.wsu.edu/faculty/ddeford/</a> </b>
 
+<hr>
+
 <p> I am an Assistant Professor of Data Analytics in the <a href="http://math.wsu.edu">Department of Mathematics and Statistics</a> at Washington State University.
-You can download  my C.V. <a href="./files/DeFord_CV.pdf"> here</a> and see the exciting things my students are up to
+You can download  my C.V. <a href="./files/DeFord_CV.pdf"> here</a>. </p>
+
+<!--
+  and see the exciting things my students are up to
  <a href="/students">here</a>. </p>
 <p> Previously, I was a postdoctoral associate at MIT (CSAIL)
  in the
@@ -21,7 +27,7 @@ You can download  my C.V. <a href="./files/DeFord_CV.pdf"> here</a> and see the 
  In 2018,  I earned my Ph.D. in mathematics at Dartmouth College under the supervision of 
  <a href="https://home.dartmouth.edu/faculty-directory/daniel-rockmore">
 Dan Rockmore</a>. </p>
-
+-->
 <hr>
 
 I often generate .gifs from the kinds of discrete processes that come up in my research. Some colorful examples (with brief explanations in the mouseover text) below: 
