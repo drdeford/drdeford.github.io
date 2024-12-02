@@ -1,7 +1,10 @@
 ---
-layout: archive
-title: "Research Students"
+permalink: /Students.md
+title: "Academic Homepage for Daryl DeFord"
 author_profile: true
+redirect_from: 
+  - /Students/
+  - /Students.html
 ---
 
 At WSU I have had the opportunity to mentor research students at all levels, on a wide variety of project topics broadly aligned with my research interests.
