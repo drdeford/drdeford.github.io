@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /Students.md
 title: "Academic Homepage for Daryl DeFord"
 author_profile: true
