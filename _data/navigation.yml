@@ -6,19 +6,19 @@
 
 main:
   - title: "Research"
-    url: /publications/
-
+    url: /Research.md
+    
   - title: "Teaching"
-    url: /teaching/   
+    url: /Teaching.md
 
   - title: "Resources"
-    url: /Resources/
+    url: /Resources.md
 
   - title: "Other Writing"
-    url: /Other/
+    url: /Other.md
 
   - title: "Students"
-    url: /Students/
+    url: /Students.md
 
   - title: "CV"
     url: ./files/DeFord_CV.pdf
