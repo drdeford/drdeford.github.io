@@ -18,7 +18,7 @@ main:
     url: /_pages/Other.md
 
   - title: "Students"
-    url: /Students.md
+    url: /_pages/Students.md
 
   - title: "CV"
     url: ./files/DeFord_CV.pdf
