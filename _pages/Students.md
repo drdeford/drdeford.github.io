@@ -1,10 +1,10 @@
 ---
-layout: archive
-permalink: /Students.md
+layout: page
+permalink: /Students/
 title: "Academic Homepage for Daryl DeFord"
 author_profile: true
 redirect_from: 
-  - /Students/
+  - /Students.md
   - /Students.html
 ---
 
