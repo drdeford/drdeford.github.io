@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 permalink: /Students/
 title: "Academic Homepage for Daryl DeFord"
 author_profile: true
