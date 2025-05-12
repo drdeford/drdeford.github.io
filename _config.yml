@@ -24,11 +24,11 @@ author:
   avatar           : "trimmed2.jpg"
   name             : "Daryl R. DeFord"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor of Data Analytics"
-  location         : "Uniontown, WA"
-  employer         : "Washington State University"
+  bio              : "Assistant Professor of Statistics"
+  location         : "Poughkeepsie, New York"
+  employer         : "Vassar College"
   uri              : "https://daryldeford.com"
-  email            : "daryl.deford@wsu.edu" 
+  email            : "daryl.r.deford@gmail.com" 
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/?searchtype=author&query=DeFord%2C+D" # URL - Update with the correct link to your profile
