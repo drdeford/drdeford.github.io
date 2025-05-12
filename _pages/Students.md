@@ -34,8 +34,9 @@ redirect_from:
 <ul> 
 <li>Topic: Mathematical and computational democracy </li>
 <li> 2023-2024 GPSA Excellence Award as a Graduate Student Instructor </li>
+  </ul>
+
 <!--
-</ul>
 <li>  <a href="https://www.math.wsu.edu/students/gkepler/"> Garrett Kepler</a> (WSU Mathematics 2023 - )
 </li>
 <ul> 
