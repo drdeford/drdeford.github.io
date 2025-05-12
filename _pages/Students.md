@@ -1,15 +1,14 @@
 ---
 layout: archive
 permalink: /Students/
-title: "Academic Homepage for Daryl DeFord"
+title: "Research Students"
 author_profile: true
 redirect_from: 
   - /Students.md
   - /Students.html
 ---
 
- I have had the opportunity to mentor research students at all levels, on a wide variety of project topics broadly aligned with my research interests.
- Follow the links below to get a sense for the exciting work my students are doing.  I have also supervised students during the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program. 
+One of the best parts of being a faculty mentor is having the opportunity to mentor student research at all levels, on a wide variety of project topics broadly aligned with my research interests. The links below give a sense of the kinds of work students have pursued with me and current Vassar students interested in working on similar projects are welcome to contact me to discuss potential projects. I have also supervised students during the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program, as well as serving as a mentor and the mentor coordinator for WSU's <a href="https://provost.wsu.edu/stem-sss/stem-engagement/">Research and Mentoring Program</a>. 
 
 
 <hr>
@@ -71,7 +70,7 @@ redirect_from:
 <hr>
 <h3> Current MS Students </h3>
 <ul>
-<li> <a href="https://www.math.wsu.edu/students/jwiden/"> Jon Widen</a> (WSU Stats 2023 - )
+<li> <a href="https://www.math.wsu.edu/students/jwiden/"> Jon Widen</a> (WSU Statistics 2023 - )
 </li>
 <ul> 
 <li>Topic: Distributions of Gaps in Sorted Data </li>
@@ -91,7 +90,7 @@ redirect_from:
 
 </ul>
 
- <li> <a href="https://www.math.wsu.edu/students/qqiao">Qingwei Qiao </a> (WSU Stats 2023 - 2024 )
+ <li> <a href="https://www.math.wsu.edu/students/qqiao">Qingwei Qiao </a> (WSU Statistics 2023 - 2024 )
 </li>
  <ul> 
 <li>Topic: Do Social Network Strengths Affect Policy Interventions? Evidence from a Field
@@ -99,7 +98,7 @@ Experiment in Madagascar </li>
 <li> Economist at Amazon </li>
 </ul>
 <li>  <a href="https://cahnrs.wsu.edu/people-directory/people/wsu-profile/sahil.patil/">
-Sahil Patil</a> (WSU Stats 2023 - 2024 )
+Sahil Patil</a> (WSU Statistics 2023 - 2024 )
 </li>
 <ul> 
 <li>Topic: Impact of adapting annealing schedules on a pricing algorithm</li>
@@ -115,7 +114,7 @@ Sahil Patil</a> (WSU Stats 2023 - 2024 )
 </ul>
 </ul>
 <ul>
-<li> <a href="https://education.wsu.edu/james-asare/"> James Asare</a> (WSU Applied Math 2020 - 2021)
+<li> <a href="https://education.wsu.edu/james-asare/"> James Asare</a> (WSU Applied Mathematics 2020 - 2021)
 </li>
 <ul> 
 <li>Topic:  Analysis of Optimized Plans for School Redistricting </li>
