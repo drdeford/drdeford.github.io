@@ -166,7 +166,7 @@ Sahil Patil</a> (WSU Stats 2023 - 2024 )
 </li>
 <ul> 
 <li>Topic:  Spatial Influences on Vote Modeling Regression</li>
-<li> 2023 WSU Data Analytics Outstanding Senior</li>li>
+<li> 2023 WSU Data Analytics Outstanding Senior</li>
 </ul>
 </ul>
 
@@ -186,6 +186,6 @@ Sahil Patil</a> (WSU Stats 2023 - 2024 )
 <ul> 
 <li>Topic: Malapportionment in Washington Dual Graphs and Multi-Balanced Redistricting </li>
 <li> <a href="https://data-analytics.wsu.edu/student-spotlights/">2023 Data Analytics Student Spotlight</a> </li>
-<li> Publication: <a href="https://link.springer.com/article/10.1007/s42001-023-00217-8">Multi-Balanced Redistricting</a>, Journal of Computational Social Science, (to appear 2023). 
+<li> Publication: <a href="https://link.springer.com/article/10.1007/s42001-023-00217-8">Multi-Balanced Redistricting</a>, Journal of Computational Social Science, (to appear 2023). </li>
 </ul>
 </ul>
