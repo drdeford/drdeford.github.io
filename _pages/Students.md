@@ -8,20 +8,13 @@ redirect_from:
   - /Students.html
 ---
 
-At WSU I have had the opportunity to mentor research students at all levels, on a wide variety of project topics broadly aligned with my research interests.
+ I have had the opportunity to mentor research students at all levels, on a wide variety of project topics broadly aligned with my research interests.
  Follow the links below to get a sense for the exciting work my students are doing.  I have also supervised students during the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program. 
 
 
 <hr>
 <h3> Current PhD Students </h3>
 <ul>
-<li> <a href="https://www.math.wsu.edu/students/mhasan/"> Md. Mahedi Hasan</a> (WSU Statistics 2022 - )
-</li>
-<ul> 
-<li>Topic: Change point detection in RDPG models </li>
-<li> 2022-2023 GPSA Excellence Award as a Graduate Student Instructor </li>
-<li> 2023 President's Award for Leadership </li>
-</ul>
 
 <li> <a href="https://www.math.wsu.edu/students/wxie/"> Weiwei Xie </a> (Coadvised with Dean Johnson WSU Statistics 2022 - )
 </li>
@@ -29,31 +22,41 @@ At WSU I have had the opportunity to mentor research students at all levels, on 
 <li>Topic: Null models for time series entropy </li>
 </ul>
 
+<!--
 <li> <a href="https://www.math.wsu.edu/students/pgambill/"> Patrick Gambill </a> (WSU Mathematics 2022 - )
 </li>
 <ul> 
 <li>Topic: Clustering metrics for multiplex networks </li>
 </ul>
-
+-->
 <li> <a href="https://www.math.wsu.edu/students/ppeaungvongpakdy/"> Phousawanh Peaungvongpakdy </a> (WSU Mathematics 2022 - )
 </li>
 <ul> 
 <li>Topic: Mathematical and computational democracy </li>
 <li> 2023-2024 GPSA Excellence Award as a Graduate Student Instructor </li>
-
+<!--
 </ul>
 <li>  <a href="https://www.math.wsu.edu/students/gkepler/"> Garrett Kepler</a> (WSU Mathematics 2023 - )
 </li>
 <ul> 
 <li>Topic: Spectral Distributions of Network Null Models</li>
 </ul>
-
+-->
 
 </ul>
 
 <hr>
 <h3> Graduated  PhD Students </h3>
 <ul>
+  <li> <a href="https://www.math.wsu.edu/students/mhasan/"> Md. Mahedi Hasan</a> (WSU Statistics 2022 - 2025 )
+</li>
+<ul> 
+<li> Thesis: Inference, Aggregation, and Embedding for Learning Problems on Network and Time Series Data </li>
+<li> 2022-2023 GPSA Excellence Award as a Graduate Student Instructor </li>
+<li> 2023 President's Award for Leadership </li>
+  <li> Currently a Postdoc at UW-Madison</li>
+</ul>
+
 <li> <a href="https://www.math.wsu.edu/students/schakraborty/"> Dr. Swarnita Chakraborty</a> (Coadvised with Jan Dasgupta WSU Statistics 2021 - 2023)
 </li>
 <ul> 
@@ -69,23 +72,24 @@ At WSU I have had the opportunity to mentor research students at all levels, on 
 <ul>
 <li> <a href="https://www.math.wsu.edu/students/jwiden/"> Jon Widen</a> (WSU Stats 2023 - )
 </li>
-<li> <a href="https://www.math.wsu.edu/students/wkim/"> Wooyoung Kim</a> (WSU Applied Math 2023 - )
-</li>
-<li> <a href="https://www.math.wsu.edu/students/jcarlton/"> Jackie Carlton</a> (WSU Stats 2023 - )
-</li>
-<!--<ul> 
-<li>Topic: Statistical Evaluation of Partisan Fairness Metrics </li>
+<ul> 
+<li>Topic: Distributions of Gaps in Sorted Data </li>
+<li> Currently a PhD student in Mathematics at WSU </li>
 </ul>
--->
-<li> <a href="https://www.math.wsu.edu/students/yhu">Yang Hu</a> (WSU Applied Math 2023 - )
- </li>
-
 
 </ul>
 
 <hr>
 <h3> Graduated MS Students </h3>
 <ul>
+  <li> <a href="https://www.math.wsu.edu/students/ppeaungvongpakdy/"> Phousawanh Peaungvongpakdy </a> (WSU Statistics 2022 - 2025)
+</li>
+<ul> 
+<li>Topic: (Parallel Tempered) Short Burst Optimization for Redistricting</li>
+<li> Currently a PhD student in Mathematics at WSU </li>
+
+</ul>
+
  <li> <a href="https://www.math.wsu.edu/students/qqiao">Qingwei Qiao </a> (WSU Stats 2023 - 2024 )
 </li>
  <ul> 
@@ -98,7 +102,7 @@ Sahil Patil</a> (WSU Stats 2023 - 2024 )
 </li>
 <ul> 
 <li>Topic: Impact of adapting annealing schedules on a pricing algorithm</li>
-<li> Currently a PhD Candidate and Research Assistant in Economics</li>
+<li> Research Scientist at Amazon Music</li>
 </ul>
 
 <li> <a href="https://www.depts.ttu.edu/comc/faculty/faculty/avishnevskaya.php"> Anastasia Vishnevskaya</a> (WSU Statistics 2021 - 20212)
@@ -162,8 +166,7 @@ Sahil Patil</a> (WSU Stats 2023 - 2024 )
 </li>
 <ul> 
 <li>Topic:  Spatial Influences on Vote Modeling Regression</li>
-<li> 2023 WSU Data Analytics Outstanding Senior
-<li> Currently in the MSDS program at USFCA. </li>
+<li> 2023 WSU Data Analytics Outstanding Senior</li>li>
 </ul>
 </ul>
 
@@ -173,7 +176,6 @@ Sahil Patil</a> (WSU Stats 2023 - 2024 )
 </li>
 <ul> 
 <li>Topic:  Geo-Spatial Analysis of Ranked Choice Voting in Maine Congressional Elections</li>
-<li> Currently in the MSDS program at USFCA. </li>
 </ul>
 
 </ul>
