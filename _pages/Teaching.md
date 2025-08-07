@@ -8,12 +8,8 @@ redirect_from:
   - /Teaching.html
 ---
 
-<div id="name" style="color:#00703C">
-Teaching Experience
-</div>
 <div id="main">
-
- At WSU I was heavily involved in developing courses for the <a href="https://data-analytics.wsu.edu/">Data Analytics</a> program and I'm particularly passionate about incorporating real-world data and computational tools
+At Vassar I mostly teach courses related to statistics and data.  At WSU I was heavily involved in developing courses for the <a href="https://data-analytics.wsu.edu/">Data Analytics</a> program and I'm particularly passionate about incorporating real-world data and computational tools
  into the classroom. Examples of my course materials can be found in the links below. 
 <p>As a result of my <a href="Research_topics.php">work analyzing gerrymandering</a> I also focus  on the social impact of mathematical modeling in my teaching and have developed several sets of materials for helping 
 math students contribute to research around voting rights and political redistricting, which I used while supervising students through the 
@@ -32,6 +28,18 @@ math students contribute to research around voting rights and political redistri
 </figure>
 
 <hr>
+<h3> Vassar College </h3>
+<ul>
+<li> <b> Fall 2025 </b> </li>
+<ul> 
+<li> <a href = "https://canvas.wsu.edu">Math 144: Foundations of Data Science  </a> </li>
+This course focuses on the development and practice of computational and inferential thinking. Students are introduced to the fundamentals of programming and inference. Students learn to write programs, create data visualizations, and work with real-world datasets, culminating in a final data analysis project. 
+  <li> <a href = "https://canvas.wsu.edu">Math 240:  Topics in Combinatorics </a> </li>
+The purpose of this course is to introduce the methods by which we extract information from data.  Topics are similar to those in MATH 141, with more coverage of probability and more intense computational and computer work. Statistical software is introduced and used.
+</li>
+
+
+<hr>
 <h3> Washington State University </h3>
 <ul>
 <li> <b> Spring 2025 </b> </li>
@@ -40,9 +48,7 @@ math students contribute to research around voting rights and political redistri
 Introduction to combinatorial theory, including counting methods, binomial coefficients and identities, generating functions, occurrence relations, inclusion-exclusion methods.
 <li> <a href = "https://canvas.wsu.edu">Math 555:  Topics in Combinatorics </a> </li>
 Graduate course in combinatorics covering generating functions, recurrence relations, inclusion-exclusion, coding theory, experimental design, and graph theory. 
-<li> <a href = "https://canvas.wsu.edu">Data 521:  Responsible Data Science </a> </li>
-Graduate course on ethical issues and practical implementation issues arising in data science including algorithmic fairness, privacy, and data/AI bias.
-</ul>
+
 </li>
 
 <li> <b> Fall  2024 </b> </li>
