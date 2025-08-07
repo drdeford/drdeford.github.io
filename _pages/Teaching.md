@@ -37,7 +37,7 @@ This course focuses on the development and practice of computational and inferen
   <li> <a href = "https://canvas.wsu.edu">Math 240:  Topics in Combinatorics </a> </li>
 The purpose of this course is to introduce the methods by which we extract information from data.  Topics are similar to those in MATH 141, with more coverage of probability and more intense computational and computer work. Statistical software is introduced and used.
 </li>
-
+</ul>
 
 <hr>
 <h3> Washington State University </h3>
