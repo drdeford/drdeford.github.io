@@ -1,3 +1,12 @@
+---
+layout: archive
+permalink: /Teaching/
+title: "Teaching"
+author_profile: true
+redirect_from: 
+  - /Teaching.md
+  - /Teaching.html
+---
 
 <div id="name" style="color:#00703C">
 Teaching Experience
@@ -294,12 +303,6 @@ I developed and presented two workshops for middle and high school aged students
 <br clear="all" />
 
 
-<table cellpadding="2">
-<tr>
-  <td ><i>Last modified on December 02, 2024.</i></td>
-</tr>
-</table>
-
 </div>
 </div>
 
@@ -310,6 +313,3 @@ I developed and presented two workshops for middle and high school aged students
 
 
 
-
-</body>
-</html>
