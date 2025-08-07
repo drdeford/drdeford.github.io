@@ -27,7 +27,7 @@ math students contribute to research around voting rights and political redistri
 
 <figure>
 <center>
-<img src=./"files/Daryl_6400.jpg" style="width:700px;height:350px;" />
+<img src="../files/Daryl_6400.jpg" style="width:700px;height:350px;" />
 </center>
 </figure>
 
