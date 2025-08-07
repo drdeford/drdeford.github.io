@@ -9,7 +9,7 @@ main:
     url: /_pages/Research.md
     
   - title: "Teaching"
-    url: /_pages/Teaching.md
+    url: /Teaching.md
 
   - title: "Resources"
     url: /_pages/Resources.md
