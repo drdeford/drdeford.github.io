@@ -11,6 +11,7 @@ redirect_from:
 <div id="main">
 At Vassar I mostly teach courses related to statistics and data.  At WSU I was heavily involved in developing courses for the <a href="https://data-analytics.wsu.edu/">Data Analytics</a> program and I'm particularly passionate about incorporating real-world data and computational tools
  into the classroom. Examples of my course materials can be found in the links below. 
+  
 <p>As a result of my <a href="Research_topics.php">work analyzing gerrymandering</a> I also focus  on the social impact of mathematical modeling in my teaching and have developed several sets of materials for helping 
 math students contribute to research around voting rights and political redistricting, which I used while supervising students through the 
 <a href="https://sites.tufts.edu/vrdi/">Voting Rights Data Institute</a> and the UW eScience 
