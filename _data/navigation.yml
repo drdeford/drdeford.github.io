@@ -6,16 +6,16 @@
 
 main:
   - title: "Research"
-    url: /_pages/Research.md
+    url: /Research/
     
   - title: "Teaching"
     url: /Teaching/
 
   - title: "Resources"
-    url: /_pages/Resources.md
+    url: /Resources/
 
   - title: "Other Writing"
-    url: /_pages/Other.md
+    url: /Other/
 
   - title: "Students"
     url: /Students/
