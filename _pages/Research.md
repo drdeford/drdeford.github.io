@@ -32,6 +32,7 @@ and the properties of alternative election systems.
  Dan Rockmore in 2018. My research interests tend towards applications of algebraic and combinatorial methods in 
 data analysis.  -->
 
+<!--
 <ul>
 <li><a href="CV_DeFord_academic.pdf"> Current CV </a>  </li>
 <li> <a href="Research_topics.php"> Current Projects</a> </li>
@@ -41,6 +42,7 @@ data analysis.  -->
 
 </ul>
 
+-->
 </p>
 <!--
 <hr>
