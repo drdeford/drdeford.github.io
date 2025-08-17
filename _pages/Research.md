@@ -160,7 +160,7 @@ Conference on Complex Networks and Applications, Studies in Computational Intell
 </ol>
 
 
-<bold><H4>Expert Reports for Redistricting Litigation</H4></bold>
+<bold><H3>Expert Reports for Redistricting Litigation</H3></bold>
 <ol>
 <li> <a href="https://www.wicourts.gov/courts/supreme/origact/docs/23ap1399_011224expertreportdeford.pdf"> Expert Report </a> for Wisconsin (2024)</li>
 <ul>
@@ -182,7 +182,7 @@ Conference on Complex Networks and Applications, Studies in Computational Intell
 
 </ol>
 
-<bold><H4>Technical Reports and Amicus Briefs</H4></bold>
+<bold><H3>Technical Reports and Amicus Briefs</H3></bold>
 <ol>
 
 <li><a href="https://www.supremecourt.gov/DocketPDF/21/21-1086/230272/20220718153650363_21-1086%2021-1087%20bsac%20Computational%20Redistricting%20Experts.pdf">
