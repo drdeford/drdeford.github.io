@@ -8,19 +8,19 @@ redirect_from:
   - /MCMC_Intro.html
 ---
 
-<p> This page organizes the software resources that I wrote to accompany <a href="../files/MCMC_Intro_plus.pdf">my notes</a> on MCMC. These resources are still a work in progress but 
+<p> This page organizes the software resources that I wrote to accompany <a href="../files/MCMC_Intro_plus.pdf">my notes</a> on MCMC, further expanded into this <a href="https://mggg.org/publications/political-geometry/17-DefordDuchin.pdf">book chapter</a> with Moon Duchin. These resources are still a work in progress but 
 I hope they will be useful to people encountering this material for the first time. The underlying code for all of these tools is available on 
 <a href="https://github.com/drdeford/MCMC_Intro"> GitHub</a>. </p>
 
 <h2>Introduction</h2>
 <p>As MCMC sampling has become an increasingly popular tool for evaluating districting plans, people from a diverse set of backgrounds are encountering these methods for the first time. These notes 
-and Sage Widgets represent my attempt at explaining the underlying ideas in a concrete and friendly fashion, with lots of opportunity for interaction and exploration. Throughout the <a href="MCMC_Intro_plus.pdf">
+and Sage Widgets represent my attempt at explaining the underlying ideas in a concrete and friendly fashion, with lots of opportunity for interaction and exploration. Throughout the <a href="../files/MCMC_Intro_plus.pdf">
 .pdf document</a>
 there are many links to individual interactive tools for exploring the ideas further. These tools and brief descriptions of their purposes are linked below. The organizational structure of 
 this page follows that of the accompanying text. </p>
 <p>
 
-If you are interested in building your own Sage @interact modules, I have prepared some notes and examples at the bottom of <a href="ethics.php"> this page</a>. I frequently use these tools
+If you are interested in building your own Sage @interact modules, I have prepared some notes and examples at the bottom of <a href="../Ethics"> this page</a>. I frequently use these tools
 for both teaching and research and highly recommend them.
 </p>
 
