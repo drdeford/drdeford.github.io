@@ -13,7 +13,7 @@ This page collects some of my writing on miscellaneous topics that don't fit nat
 <hr> 
 <ol>
 
-<li> <a href="Math_Job_Market_Notes.pdf">Mathematics Job Market Notes</a>.
+<li> <a href="Math_Job_Market_Notes.pdf">Mathematics Job Market Notes</a>.</li>
 <ul> 
 <li> Detailed commentary about my experiences applying for academic jobs in mathematics in the US. Also includes links to some resources developed for Math 581.03 at WSU, which is a professional development course for graduating students. </li>
 </ul> 
