@@ -67,7 +67,7 @@ https://www.cambridge.org/core/journals/political-analysis/article/abs/partisan-
 
 <bold><H4> Data Science of Redistricting and Elections</H4></bold>
 <ol>
-	<li> <a href="https://arxiv.org/abs/2406.12167">Bounds and Bugs: The Limits of Symmetry Metrics to Detect Partisan Gerrymandering</a>a>, with E. Veomett, Election Law Journal, (2025). </li>
+	<li> <a href="https://arxiv.org/abs/2406.12167">Bounds and Bugs: The Limits of Symmetry Metrics to Detect Partisan Gerrymandering</a>, with E. Veomett, Election Law Journal, (2025). </li>
 <li> <a href="https://arxiv.org/abs/2409.19017">Repetition effects in a Sequential Monte Carlo sampler</a>, with S. Cannon and M. Duchin, arXiv: 2409.19017, (2024). </li>
 
 <li> <a href="https://link.springer.com/article/10.1007/s42001-023-00217-8">Multi-Balanced Redistricting</a>, with E. Kimsey and R. Zerr, Journal of Computational Social Science, (2023). </li> 
@@ -97,7 +97,7 @@ A Computational Approach to Measuring Vote Elasticity and Competitiveness</a>, w
 
 <bold><H4> Statistics, Optimization, and Computation</H4></bold>
 <ol>
-<li></li><a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a>, with J. Briscoe, G. Kepler, and A. Gebremedhin, AISTATS25, (2025). </li>
+<li><a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a>, with J. Briscoe, G. Kepler, and A. Gebremedhin, AISTATS25, (2025). </li>
 <li> <a href="https://arxiv.org/abs/2303.02942">Does the first-serving team have
 a structural advantage in pickleball?</a>, with S. Ethier, AMS Contemporary Mathematics Series, 
  (to appear 2024). </li>
