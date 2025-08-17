@@ -100,7 +100,7 @@ families of interger spectra graphs,
     
 <bold><H3> Multiplex Networks </H3></bold>
 
-<img src="../images/100_d_go.gif" width="24%"  title="Forced Multiplex Diffusion."  />
+<img src="../images/100d_go.gif" width="24%"  title="Forced Multiplex Diffusion."  />
 
 <p>While standard network models consider a set of nodes an a binary relation between them, multiplex networks
 allow for many different types of connections between the nodes. For example, we might consider a social multiplex whose nodes are people and where different types of edges represent 
