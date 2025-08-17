@@ -211,7 +211,7 @@ differently in other fields, and many of the case studies that I teach are drawn
 Many of the resources that I have compiled for the course can be found <a href="../Ethics">
 here</a>.</li>
 
-<li> In 2017 I taught <b> Math 8: Calculus of Functions of one and Several Variables</b> (<a href="http://math.dartmouth.edu/~m1f15">course website</a>). Some of the interactive Sage programs that I developed for the students are linked below:
+<li> In 2017 I taught <b> Math 8: Calculus of Functions of one and Several Variables</b> (<a href="http://math.dartmouth.edu/~m1f15">course website</a>). Some of the interactive Sage programs that I developed for the students are linked below:</li>
 
 <ul>
 <li><a href="sage7.html">Taylor Polynomials</a></li>
@@ -234,7 +234,7 @@ For this class, I also put together some notes with fully worked examples on top
 
 </ul> 
 
-<li> In 2015 I taught <b> Math 1: Calculus with Algebra </b>(<a href="http://math.dartmouth.edu/~m1f15">course website</a>).
+<li> In 2015 I taught <b> Math 1: Calculus with Algebra </b>(<a href="http://math.dartmouth.edu/~m1f15">course website</a>).</li>
 I strongly support the use of technology in the classroom and frequently incorporate interactive Sage programs into my classes. Some of the programs from Math 1 
 can be found at the following links (adapted from the Sage @interact example page):
 <ul>
@@ -246,12 +246,10 @@ can be found at the following links (adapted from the Sage @interact example pag
 <li><a href="sage5.html">Taylor Polynomials</a></li>
 
 </ul>
-</li>
-<li> Previously at Dartmouth, I served as a teaching assistant for <a href="http://math.dartmouth.edu/~m3w14">Math 3 (Winter 2014)</a>,
+<li> Previously at Dartmouth, I served as a teaching assistant for <a href="http://math.dartmouth.edu/~m3w14">Math 3 (Winter 2014)</a>,</li>
 <a href="http://math.dartmouth.edu/~m12f13">Math 12 (Fall 2013)</a>,
 <a href="http://math.dartmouth.edu/~m22f14">Math 22 (Fall 2014)</a>,
 <a href="http://math.dartmouth.edu/~m23f15">Math 23 (Spring 2015)</a>.
-</li>
 </ul>
 
 <hr>
@@ -272,10 +270,9 @@ successful in 2017-18 and again qualified a student for the national Math Counts
 <H3> LaTeX Workshops 2016-2018
 </H3>
 
-
 Together with <a href="http://math.dartmouth.edu/~dfreund"> David Freund</a>, I have developed and presented 
 a series of <a href="../Latex">workshops</a> on mathematical typesetting with LaTeX, organized through the  Kresge Library and Mathematics Librarian
- <a href="http://researchguides.dartmouth.edu/prf.php?account_id=80746" >Katie Harding</a>.  </p>
+ <a href="http://researchguides.dartmouth.edu/prf.php?account_id=80746" >Katie Harding</a>.  
 
 <div class="hr"> <hr /> </div>
 
@@ -298,18 +295,6 @@ I developed and presented two workshops for middle and high school aged students
 <li>Mathematics of Games</li>
 <li> Mathematics of Secrets</li>
 </ul>
-
-
-
-
-
-<div id="footer">
-
-<br clear="all" />
-
-
-</div>
-</div>
 
 
 
