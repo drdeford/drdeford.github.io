@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "Academic Homepage for Daryl DeFord"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<!--
 <hr>
 <b> This page is still under construction but you can still find all my content at my previous webpage here: <a href="https://archive.math.wsu.edu/faculty/ddeford/">https://archive.math.wsu.edu/faculty/ddeford/</a> </b>
 
 <hr>
+-->
 
 <p> I am an Assistant Professor of Statistics in the <a href="https://www.vassar.edu/math">Department of Mathematics and Statistics</a> at Vassar College. Previously, I was an Assistant Professor of Data Analytics at WSU and a postdoctoral associate at MIT (CSAIL)
  in the
