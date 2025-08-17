@@ -16,8 +16,9 @@ redirect_from:
 This page contains some brief descriptions of my current research interests. For my published papers related to this topics, see the <a href="../Research">Research</a> page. 
 
 <bold><H3>Political Redistricting</H3></bold>
-
+<p>
 <img src="../images/LWAR.gif" width="24%"  title="A  Markov chain on Arkansas partitions. "  />
+</p>
 
   <p> Political redistricting can be abstracted as a graph partitioning problem subject to a
  variety of legal constraints. My main research in this area focuses on developing methods for efficient 
@@ -28,8 +29,9 @@ I also maintain an active list of open mathematical problems related to
 details if any of these catch your interest.                            
 
 <bold><H3> Random Dot Product Graphs </H3></bold>
-
+<p>
 <img src="../images/EP_Networks.gif" width="24%"  title="RDPG models of European Parliament voting behavior. "  />
+</p>
 
 <p> The Random Dot Product Graph (RDPG) model is a latent space model for complex networks, where 
 each node is associated to a vector in \(\mathbb{R}^d\) and nodes are connected with probability equal 
@@ -50,22 +52,25 @@ structure of the associated graphs. </p>
   <img src="../images/d3hist.gif" width="24%" title="Corresponding histogram over patterns."/>
 </p>
 
-
+<p>
 Time series data consists of real valued samples, indexed by a time parameter, such as daily stock returns or temperature values. I am particularly interested in probabilistic generative models for this
 data and their relation to entropy measures. Current work with <a href="https://katherinemath.com">
  Kate Moore</a>  focuses on clustering and  detecting distributional changes using information-theoretic metrics
 and Markov based null models.
  These null models represent a given time series by a Markov chain defined on permutations,
  whose transition probabilities are inferred from the data. This model allows for both theoretical results for known distributions as well as an empirical test for divergence between the steady state of the Markov chain and the observed distribution. 
-
+</p>
 
 <bold><H3>Pickleball Analytics</H3></bold>
-
+<p>
 <img src="../images/gifR6404.gif" width="24%"  title="Visualization of the shots in a pickleball point."  />
+</p>
 
+<p>
 Motivated by a recent paper about <a href="https://hdsr.mitpress.mit.edu/pub/uy0zl4i1/release/4?readingCollection=40060419">tennis analytics</a> I have been increasingly interested in analyzing 
 pickleball match data and in studying the bracket design problem for fair recreational and tournament play formats. More information can be found on my <a href="../Other"> Other Writing</a> page.  With S. Ethier we formulated a Markov chain representation of 
 gameplay to evaluate win probabilities under different game models and there are several natural ways to extend that work. Additional current projects include: 
+</p>
 <ul>
 <li> Analyzing shot distributions as a function of court position and  shot type.</li>
  <li>Determining game and point winning probabilities as a function of serving rates and player ratings</li>
@@ -74,10 +79,11 @@ gameplay to evaluate win probabilities under different game models and there are
 </ul>
 
 <bold><H3>Representations and Eigenvalues</H3></bold>
-
+<p>
 <img src="../images/multi_example.png" width="24%"  title="Regular Tree Eigenvalues. "  />
+</p>
 
-
+<p>
 The connection between the Fourier transform on finite groups and eigenvalues of Cayley graphs leads to many 
 natural questions, both in graph theory and representation theory.
  I am particularly interested in questions relating to the
@@ -92,15 +98,16 @@ families of interger spectra graphs,
  while others define a periodic spectral structure that appears
  to obey a well-defined limit law. Explaining these phenomena is an ongoing research project, see 
 <a href="https://github.com/drdeford/Dihedral_Cayley_Reps"> here </a> and <a href="https://github.com/drdeford/Tree_Eigenvalues"> here </a> for related software and figures. 
-
+ </p>
 
 
 
 
     
 <bold><H3> Multiplex Networks </H3></bold>
-
+<p>
 <img src="../images/100d_go.gif" width="24%"  title="Forced Multiplex Diffusion."  />
+</p>
 
 <p>While standard network models consider a set of nodes an a binary relation between them, multiplex networks
 allow for many different types of connections between the nodes. For example, we might consider a social multiplex whose nodes are people and where different types of edges represent 
