@@ -52,7 +52,7 @@ If you are a current Vassar student who is interested in working with me, feel f
 <hr>
 <h3> Graduated  PhD Students </h3>
 <ul>
-  <li> <a href="https://www.math.wsu.edu/students/mhasan/"> Md. Mahedi Hasan</a> (WSU Statistics 2022 - 2025 )
+  <li> <a href="https://www.math.wsu.edu/students/mhasan/">Dr. Md. Mahedi Hasan</a> (WSU Statistics 2022 - 2025 )
 </li>
 <ul> 
 <li> Thesis: Inference, Aggregation, and Embedding for Learning Problems on Network and Time Series Data </li>
