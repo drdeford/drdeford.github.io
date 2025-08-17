@@ -85,7 +85,7 @@ If you are a current Vassar student who is interested in working with me, feel f
 <ul> 
 <li>Topic: Sampling Spectrall Similar Graphs </li>
 <li> Currently a PhD student in Mathematics at WSU </li>
-  <li> Publication: <a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a>a> AISTATS25 with J. Briscoe, D. DeFord, and A. Gebremedhin.</li>
+  <li> Publication: <a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a> AISTATS25 with J. Briscoe, D. DeFord, and A. Gebremedhin.</li>
 </ul>
 
 </ul>
