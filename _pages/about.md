@@ -22,8 +22,7 @@ redirect_from:
  working with <a href ="https://https://math.cornell.edu/moon-duchin/">Moon Duchin </a> on the mathematics of redistricting. 
  In 2018,  I earned my Ph.D. in mathematics at Dartmouth College under the supervision of 
  <a href="https://home.dartmouth.edu/faculty-directory/daniel-rockmore">
-Dan Rockmore</a>.
-You can download  my C.V. <a href="./files/DeFord_CV.pdf"> here</a>. </p>
+Dan Rockmore</a>. </p>
 
 <!--
   and see the exciting things my students are up to
