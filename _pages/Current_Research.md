@@ -15,29 +15,22 @@ redirect_from:
 
 This page contains some brief descriptions of my current research interests. For my published papers related to this topics, see the <a href="../Research">Research</a> page. 
 
-<bold><H4>Political Redistricting</H4></bold>
+<bold><H3>Political Redistricting</H3></bold>
+
+<img src="./images/TWOEDGE_AR_OUTPUT.gif" width="24%"  title="A  Markov chain on Arkansas partitions. "  />
 
   <p> Political redistricting can be abstracted as a graph partitioning problem subject to a
  variety of legal constraints. My main research in this area focuses on developing methods for efficient 
-sampling of graph partitions usiing Markov chain techniques. I am also interested in shape based analysis of districting plans and metrics defined on the space of permissible graph partitions. For more details, see the description and notes from my 2019 MIT IAP course <a href="CAPR.php">here</a>. </p>
+sampling of graph partitions usiing Markov chain techniques. I am also interested in shape based analysis of districting plans and metrics defined on the space of permissible graph partitions. For more details, see my overview of related resources <a href="https://tinyurl.com/gerrytalk"> here</a>. </p>
 <p>There are many interesting, open problems in this domain that are well suited for student research projects. 
 I also maintain an active list of open mathematical problems related to
  redistricting <a href="../files/GerryProjects-5.pdf">here</a>, please feel free to <a href="mailto:ddeford@vassar.edu"> email me</a> for more
 details if any of these catch your interest.                            
 
-<bold><H4> Multiplex Networks </H4></bold>
-<p>While standard network models consider a set of nodes an a binary relation between them, multiplex networks
-allow for many different types of connections between the nodes. For example, we might consider a social multiplex whose nodes are people and where different types of edges represent 
-familial ties, coworkers, and friendship relations.  
-</p><p>
- I am particularly interested in dynamical models on these networks, such as information flow through our social network example, and the
-properties of their associated operators. Current research includes developing clustering algorithms that 
-respect multiplex structure and better understanding the effects of
- modeling choices in application domains, as well as machine learning approaches for inferring inter-layer edge weights.  
+<bold><H3> Random Dot Product Graphs </H3></bold>
 
-</p>
+<img src="./images/EP_Networks.gif" width="24%"  title="RDPG models of European Parliament voting behavior. "  />
 
-<bold><H4> Random Dot Product Graphs </H4></bold>
 <p> The Random Dot Product Graph (RDPG) model is a latent space model for complex networks, where 
 each node is associated to a vector in \(\mathbb{R}^d\) and nodes are connected with probability equal 
 to the dot product of their respective vectors. The geometry of this relationship provides natural connections to notions of
@@ -48,7 +41,9 @@ machine learning problems on graphs. I am particularly interested in methods for
 from empirical networks as well as proving results relating the geometric properties of the embeddings to the combinatorial
 structure of the associated graphs. </p>
 
-<bold><H4>Representations and Eigenvalues</H4></bold>
+<bold><H3>Representations and Eigenvalues</H3></bold>
+
+<img src="./images/multi_example.png" width="24%"  title="Regular Tree Eigenvalues. "  />
 
 
 The connection between the Fourier transform on finite groups and eigenvalues of Cayley graphs leads to many 
@@ -66,17 +61,17 @@ families of interger spectra graphs,
  to obey a well-defined limit law. Explaining these phenomena is an ongoing research project, see 
 <a href="https://github.com/drdeford/Dihedral_Cayley_Reps"> here </a> and <a href="https://github.com/drdeford/Tree_Eigenvalues"> here </a> for related software and figures. 
 
-<bold><H4>Stirling Numbers for Graphs </H4></bold>
-
-
-Computing and enumerating cycle covers for graphs leads to a natural definition of Stirling numbers, where rather than partitioning permutations or integers we instead partition the nodes of a given graph
-or family of graphs. These questions also generalize matchings (2-factors instead of 1-factors) and lead to a wide variety of combinatorial questions and models. Recently with
- <a href="https://www.smcvt.edu/about-smc/directories/employee-directory/amir-barghi/">Amir Barghi</a> we have been investigating algorithms and bounds for computing these numbers as well as
-using them as inputs for statistical learning methods on graphs. 
 
 
 
-<bold><H4>Entropy in Time Series</H4></bold>
+<bold><H3>Entropy in Time Series</H3></bold>
+
+<p align="center">
+    <img src="./images/d3walk_colors.gif" width="24%" title="TS visualization with points colored by pattern." />
+  <img src="./images/d3points.gif" width="24%"  title="Distribution of steps in 2d plane. "  />
+  <img src="./images/d3hist.gif" width="24%" title="Corresponding histogram over patterns."/>
+</p>
+
 
 Time series data consists of real valued samples, indexed by a time parameter, such as daily stock returns or temperature values. I am particularly interested in probabilistic generative models for this
 data and their relation to entropy measures. Current work with <a href="https://katherinemath.com">
@@ -86,7 +81,9 @@ and Markov based null models.
  whose transition probabilities are inferred from the data. This model allows for both theoretical results for known distributions as well as an empirical test for divergence between the steady state of the Markov chain and the observed distribution. 
 
 
-<bold><H4>Pickleball Analytics</H4></bold>
+<bold><H3>Pickleball Analytics</H3></bold>
+
+<img src="./images/gifR6404.gif" width="24%"  title="Visualization of the shots in a pickleball point."  />
 
 Motivated by a recent paper about <a href="https://hdsr.mitpress.mit.edu/pub/uy0zl4i1/release/4?readingCollection=40060419">tennis analytics</a> I have been increasingly interested in analyzing 
 pickleball match data and in studying the bracket design problem for fair recreational and tournament play formats. More information can be found on my <a href="../Other"> Other Writing</a> page.  With S. Ethier we formulated a Markov chain representation of 
@@ -97,11 +94,32 @@ gameplay to evaluate win probabilities under different game models and there are
  <li> Analyzing the fairness properties of King of the Court models compared to round robin or elimination brackets</li>
   <li> Developing complete brackets for mixed partner mixed doubles round robin formats</li>
 </ul>
+
+<bold><H3>Stirling Numbers for Graphs </H3></bold>
+
+
+Computing and enumerating cycle covers for graphs leads to a natural definition of Stirling numbers, where rather than partitioning permutations or integers we instead partition the nodes of a given graph
+or family of graphs. These questions also generalize matchings (2-factors instead of 1-factors) and lead to a wide variety of combinatorial questions and models. Recently with
+ <a href="https://www.smcvt.edu/about-smc/directories/employee-directory/amir-barghi/">Amir Barghi</a> we have been investigating algorithms and bounds for computing these numbers as well as
+using them as inputs for statistical learning methods on graphs. 
+
     
+<bold><H3> Multiplex Networks </H3></bold>
+<p>While standard network models consider a set of nodes an a binary relation between them, multiplex networks
+allow for many different types of connections between the nodes. For example, we might consider a social multiplex whose nodes are people and where different types of edges represent 
+familial ties, coworkers, and friendship relations.  
+</p><p>
+ I am particularly interested in dynamical models on these networks, such as information flow through our social network example, and the
+properties of their associated operators. Current research includes developing clustering algorithms that 
+respect multiplex structure and better understanding the effects of
+ modeling choices in application domains, as well as machine learning approaches for inferring inter-layer edge weights.  
+
+</p>
 
 
 
-<bold><H4>Other Projects:</H4></bold>
+
+<bold><H3>Other Projects:</H3></bold>
 <p>
 This section contains links to brief descriptions of various research projects, outside of my main areas, that have also captured my interest.
  Each .pdf contains some background material, thoughts on possible approaches, and a bibliography. 
