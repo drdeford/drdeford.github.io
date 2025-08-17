@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /Current_Research/
-title: "Current_Research"
+title: "Current Research Interests"
 author_profile: true
 redirect_from: 
   - /Current_Research.md
