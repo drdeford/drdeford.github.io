@@ -12,7 +12,7 @@ One of the best parts of being a faculty member is having the opportunity to men
 
 <hr>
 
-If you are a current Vassar student who is interested in working with me, feel free to send me an email or stop by my office to chat. This <a href="../files/Potential_Student_Projects.pdf"> link </a> contains some specific project descriptions that I have in mind but you are also encouraged to browse my <a href="../Research"> Research</a> page to get a sense for the kinds of topics that I'm currently workin on. 
+If you are a current Vassar student who is interested in working with me, feel free to send me an email or stop by my office to chat. This <a href="../files/Potential_Student_Projects.pdf"> link </a> contains some specific project descriptions that I have in mind but you are also encouraged to browse my <a href="../Research"> Research</a> page to get a sense for my current interests. 
 
 
 <hr>
