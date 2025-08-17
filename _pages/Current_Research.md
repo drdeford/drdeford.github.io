@@ -17,7 +17,7 @@ This page contains some brief descriptions of my current research interests. For
 
 <bold><H3>Political Redistricting</H3></bold>
 
-<img src="./images/TWOEDGE_AR_OUTPUT.gif" width="24%"  title="A  Markov chain on Arkansas partitions. "  />
+<img src="./images/LWAR.gif" width="24%"  title="A  Markov chain on Arkansas partitions. "  />
 
   <p> Political redistricting can be abstracted as a graph partitioning problem subject to a
  variety of legal constraints. My main research in this area focuses on developing methods for efficient 
@@ -40,28 +40,6 @@ consistency results about spectral embeddings, as well as practically, with rece
 machine learning problems on graphs. I am particularly interested in methods for learning RDPG representations
 from empirical networks as well as proving results relating the geometric properties of the embeddings to the combinatorial
 structure of the associated graphs. </p>
-
-<bold><H3>Representations and Eigenvalues</H3></bold>
-
-<img src="./images/multi_example.png" width="24%"  title="Regular Tree Eigenvalues. "  />
-
-
-The connection between the Fourier transform on finite groups and eigenvalues of Cayley graphs leads to many 
-natural questions, both in graph theory and representation theory.
- I am particularly interested in questions relating to the
- convergence of the spectral measures for sequences of these graphs. One way to formalize this
- quesion is to ask for a combinatorial characterization of
- increasing graph sequences that satisy for all \(\varepsilon > 0\)
- there exists a finite set \(\Lambda \subseteq \mathbb{R}\) and an integer \(N\)
- such that for all \(n > N\) we have
- \(\dfrac{|\{ \lambda \in \operatorname{spec}(G_n): \lambda \notin \Lambda\}|}{|\operatorname{spec}(G_n)|}  < \varepsilon \).
- The future work sections of the papers linked above provide sketches of additional current research questions. Addtionally, various bases for the dihedral groups lead to
-families of interger spectra graphs,
- while others define a periodic spectral structure that appears
- to obey a well-defined limit law. Explaining these phenomena is an ongoing research project, see 
-<a href="https://github.com/drdeford/Dihedral_Cayley_Reps"> here </a> and <a href="https://github.com/drdeford/Tree_Eigenvalues"> here </a> for related software and figures. 
-
-
 
 
 <bold><H3>Entropy in Time Series</H3></bold>
@@ -95,16 +73,35 @@ gameplay to evaluate win probabilities under different game models and there are
   <li> Developing complete brackets for mixed partner mixed doubles round robin formats</li>
 </ul>
 
-<bold><H3>Stirling Numbers for Graphs </H3></bold>
+<bold><H3>Representations and Eigenvalues</H3></bold>
+
+<img src="./images/multi_example.png" width="24%"  title="Regular Tree Eigenvalues. "  />
 
 
-Computing and enumerating cycle covers for graphs leads to a natural definition of Stirling numbers, where rather than partitioning permutations or integers we instead partition the nodes of a given graph
-or family of graphs. These questions also generalize matchings (2-factors instead of 1-factors) and lead to a wide variety of combinatorial questions and models. Recently with
- <a href="https://www.smcvt.edu/about-smc/directories/employee-directory/amir-barghi/">Amir Barghi</a> we have been investigating algorithms and bounds for computing these numbers as well as
-using them as inputs for statistical learning methods on graphs. 
+The connection between the Fourier transform on finite groups and eigenvalues of Cayley graphs leads to many 
+natural questions, both in graph theory and representation theory.
+ I am particularly interested in questions relating to the
+ convergence of the spectral measures for sequences of these graphs. One way to formalize this
+ quesion is to ask for a combinatorial characterization of
+ increasing graph sequences that satisy for all \(\varepsilon > 0\)
+ there exists a finite set \(\Lambda \subseteq \mathbb{R}\) and an integer \(N\)
+ such that for all \(n > N\) we have
+ \(\dfrac{|\{ \lambda \in \operatorname{spec}(G_n): \lambda \notin \Lambda\}|}{|\operatorname{spec}(G_n)|}  < \varepsilon \).
+ The future work sections of the papers linked above provide sketches of additional current research questions. Addtionally, various bases for the dihedral groups lead to
+families of interger spectra graphs,
+ while others define a periodic spectral structure that appears
+ to obey a well-defined limit law. Explaining these phenomena is an ongoing research project, see 
+<a href="https://github.com/drdeford/Dihedral_Cayley_Reps"> here </a> and <a href="https://github.com/drdeford/Tree_Eigenvalues"> here </a> for related software and figures. 
+
+
+
+
 
     
 <bold><H3> Multiplex Networks </H3></bold>
+
+<img src="./images/100_d_go.gif" width="24%"  title="Forced Multiplex Diffusion."  />
+
 <p>While standard network models consider a set of nodes an a binary relation between them, multiplex networks
 allow for many different types of connections between the nodes. For example, we might consider a social multiplex whose nodes are people and where different types of edges represent 
 familial ties, coworkers, and friendship relations.  
