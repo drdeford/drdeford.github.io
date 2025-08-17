@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div id="main">
-At Vassar College I mostly teach courses related to statistics and data.  Previously at WSU I was heavily involved in developing courses for the <a href="https://data-analytics.wsu.edu/">Data Analytics</a> program and I'm particularly passionate about incorporating real-world data and computational tools
+At Vassar College I mostly teach courses related to statistics and data. In these courses I try to introduce interdisciplinary perspectives and to help students discover ways to use quantitative tools to pursue and support their interests.  Previously at WSU I was heavily involved in developing courses for the <a href="https://data-analytics.wsu.edu/">Data Analytics</a> program and I'm particularly passionate about incorporating real-world data and computational tools
  into the classroom. Examples of my course materials can be found in the links below. 
   
 <p>As a result of my ork analyzing gerrymandering I also focus  on the social impact of mathematical modeling in my teaching and have developed several sets of materials for helping 
@@ -33,11 +33,11 @@ math students contribute to research around voting rights and political redistri
 <ul>
 <li> <b> Fall 2025 </b> </li>
 <ul> 
-<li> <b> Math 144: Foundations of Data Science  </b> </li>
+<li> <b> Math 144: Foundations of Data Science (Python)  </b> </li>
 This course focuses on the development and practice of computational and inferential thinking. Students are introduced to the fundamentals of programming and inference. Students learn to write programs, create data visualizations, and work with real-world datasets, culminating in a final data analysis project. 
-  <li> <b>Math 240:  Introduction to Statistics </b> </li>
+  <li> <b>Math 240:  Introduction to Statistics (R) </b> </li>
  The purpose of this course is to introduce the methods by which we extract information from data.  Topics are similar to those in MATH 141, with more coverage of probability and more intense computational and computer work. Statistical software is introduced and used.
-</li>
+
 </ul>
 
 <hr>
@@ -45,26 +45,24 @@ This course focuses on the development and practice of computational and inferen
 <ul>
 <li> <b> Spring 2025 </b> </li>
 <ul> 
-<li> <a href = "https://canvas.wsu.edu">Math 325:  Elementary Combinatorics </a> </li>
+<li> <b>Math 325:  Elementary Combinatorics </b> </li>
 Introduction to combinatorial theory, including counting methods, binomial coefficients and identities, generating functions, occurrence relations, inclusion-exclusion methods.</li>
-<li> <a href = "https://canvas.wsu.edu">Math 555:  Topics in Combinatorics </a> </li>
+<li> <b>Math 555:  Topics in Combinatorics </b> </li>
 Graduate course in combinatorics covering generating functions, recurrence relations, inclusion-exclusion, coding theory, experimental design, and graph theory. 
-</li>
 </ul>
 
 <li> <b> Fall  2024 </b> </li>
 <ul> 
-<li> <a href = "https://canvas.wsu.edu">Math 554:  Advanced Graph Theory (Python)</a> </li>
+<li> <b>Math 554:  Advanced Graph Theory (Python)</b> </li>
 Second course in graph theory for graduate students covering matchings, colorings, extremal graph theory, graph algorithms, algebraic and spectral methods, and random graph models.
 </ul>
-</li>
 
 <li> <b> Spring 2024 </b> </li>
 <ul> 
-<li> <a href = "https://apps.aoi.wsu.edu/coursemoreinfo/course_more_info.aspx?uid=2243-14106">Stat 437:  High Dimensional Data Learning and Visualization (R)</a> </li>
+<li> <b>Stat 437:  High Dimensional Data Learning and Visualization (R)</b> </li>
 Required course for senior data analytics majors covering data visualization, metric-based clustering, probabilistic and metric-based classification, algebraic and probabilistic dimension reduction, scalable inferential methods, and analysis of non-Euclidean data.
 <li> <a href = "https://github.com/drdeford/Math_581_05">Math 588: Topics in Computational Mathematics: Social Network Analysis and Computational Redistricting (Python)</a> </li>
-Topics course for graduate students focusing on discrete modeling in the social sciences with emphasis on social networks, computational redistricting, and gerrymandering. </li>
+Topics course for graduate students focusing on discrete modeling in the social sciences with emphasis on social networks, computational redistricting, and gerrymandering.  
 </ul>
 
 
@@ -76,13 +74,13 @@ Topics course for graduate students focusing on combinatorial proof techniques a
 
 <li> <b> Fall 2022 </b> </li>
 <ul> 
-<li> <a href = "https://github.com/drdeford/Math_587">Math 587: Introduction to Representation Theory</a> </li>
+<li> <b>Math 587: Introduction to Representation Theory</b> </li>
 Topics course for graduate students covering representations of finite groups with a particular emphasis on S_n, character theory, and basic Lie representations, with applications to Fourier analysis, spectral graph theory, and random walks. 
  <li> <a href = "https://github.com/drdeford/STAT_536">STAT 536: Statistical Computing (R)</a> </li>
 Graduate course on modern computing methods for statistical application and research including  generation of random variables, Monte Carlo simulation, bootstrap and jackknife methods, EM algorithm, and  Markov chain Monte Carlo methods.
-<li> <a href="http://math.wsu.edu/faculty/ddeford/Math_Job_Market_Notes.pdf">Math 589: Professional Development</a></li>
+<li> <b>Math 589: Professional Development</b></li>
   See Fall 2020 description. 
-<li> <a href="https://www.math.wsu.edu/faculty/ddeford/The_Written_Qual_Book.pdf">Math 533: Teaching College Mathematics</a></li>
+<li> <b>Math 533: Teaching College Mathematics</b></li>
 Theory and practice of mathematics instruction at the collegiate level. This course is designed to support TAs in the Department of Mathematics and Statistics.
  This includes not just pedagogical development but also provides a broader introduction to the various cultures of academia. 
  
@@ -123,7 +121,7 @@ basic techniques for working with data including sourcing raw data, cleaning and
  around the world. A key component of the course will be critically analyzing these published data analytics works and discussing their strengths and shortcomings. 
 <li> <a href = "https://github.com/drdeford/Math_581_05">Math 581.05: Computational Tools for Complex Networks (Python)</a>  </li>
 This course introduces tools and methodology for analyzing complex social systems with network models. The first half of the course covers standard network constructions and associated centrality metrics, clustering algorithms, dynamical models, and null models through classic papers and examples from the field. The second half focuses on the discrete formulation of political redistricting problems and related applications of sampling connected graph partitions. In addition to the theoretical components, this course provides resources and experiences with relevant software packages including networkx and gerrychain.
-<li> <a href="http://math.wsu.edu/faculty/ddeford/Math_Job_Market_Notes.pdf">Math 581.03: Professional Development</a></li>
+<li> <b>Math 581.03: Professional Development</b></li>
   This course helps advanced graduate students prepare for the academic and industry job markets, providing advice and feedback about
  preparing job materials, practice interviews and talks, and other professional preparation. 
  
@@ -135,7 +133,7 @@ This course introduces tools and methodology for analyzing complex social system
 <h3> AMS Engaged Pedagogy Series: Mathematical Foundations for Democratic Processes</h3>
 
 In Spring 2023, <a href="https://malmskog.wordpress.com/"> Beth Malmskog</a> and I designed and presented interactive course materials on gerrymandering and computational redistricting for instructors across
- the country together with other experts in the Mathematical Foundations for Democratic Processes program. The resouces we put together are available <a href="AMS_EP.php"> here</a>.
+ the country together with other experts in the Mathematical Foundations for Democratic Processes program. The resouces we put together are available <a href="../AMS_EP.md"> here</a>.
 
 <hr>
 <h3> UW eScience Institute Data Science for Social Good </h3>
@@ -206,11 +204,11 @@ MatLab and Sage. Much of that code is collected <a href="https://math.dartmouth.
   </li>
 
 
-<li> In each of 2015, 2016, and 2017 I taught sections of the <b> UNSG 100: Graduate Ethics Seminar</b> (<a href="http://math.dartmouth.edu/~ddeford/ethics.php">
+<li> In each of 2015, 2016, and 2017 I taught sections of the <b> UNSG 100: Graduate Ethics Seminar</b> (<a href="../Ethics">
 course website</a>) for first year Ph.D. students in mathematics, computer science, and engineering. The course places
 an emphasis on small group discussions and case studies. The focus is on ethical issues in academia, particularly those that are viewed 
 differently in other fields, and many of the case studies that I teach are drawn from contemporary events and situations. 
-Many of the resources that I have compiled for the course can be found <a href="http://math.dartmouth.edu/~ddeford/ethics.php">
+Many of the resources that I have compiled for the course can be found <a href="../Ethics">
 here</a>.</li>
 
 <li> In 2017 I taught <b> Math 8: Calculus of Functions of one and Several Variables</b> (<a href="http://math.dartmouth.edu/~m1f15">course website</a>). Some of the interactive Sage programs that I developed for the students are linked below:
@@ -260,7 +258,7 @@ can be found at the following links (adapted from the Sage @interact example pag
 <H3> Crossroads Math Team </H3>
 <p> I volunteer as a coach for the competitive math team at <a href="http://www.crossroadsacademy.org">Crossroads Academy</a> in Lyme, NH. Our weekly meetings are centered around developing problem solving skills and preparing
 for competitions and coached the New Hampshire state Math Counts team at Nationals in 2017. Many of the resources that I have put together for the students are collected
-<a href="http://math.dartmouth.edu/~ddeford/problems.php"> here</a>. </p> 
+<a href="../Problems"> here</a>. </p> 
 <p>
 
  In 2015-16, the Crossroads team won the chapter and state 
@@ -276,7 +274,7 @@ successful in 2017-18 and again qualified a student for the national Math Counts
 
 
 Together with <a href="http://math.dartmouth.edu/~dfreund"> David Freund</a>, I have developed and presented 
-a series of <a href="http://math.dartmouth.edu/~ddeford/latex.php">workshops</a> on mathematical typesetting with LaTeX, organized through the  Kresge Library and Mathematics Librarian
+a series of <a href="../Latex">workshops</a> on mathematical typesetting with LaTeX, organized through the  Kresge Library and Mathematics Librarian
  <a href="http://researchguides.dartmouth.edu/prf.php?account_id=80746" >Katie Harding</a>.  </p>
 
 <div class="hr"> <hr /> </div>
