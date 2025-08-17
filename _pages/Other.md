@@ -25,7 +25,7 @@ This page collects some of my writing on miscellaneous topics that don't fit nat
 The .pdf also contains some detailed point breakdowns from a recorded 2016 Atlantic Regionals match. 
 A flask app  I maintain for running pickleball leagues and tournaments can be found <a href="http://pblapp.com"> here</a>,
 and a widget for computing 
-pairings for 4-24 player rotating partner round robin tournaments is <a href="http://picklebrackets.com"> here</a>.
+pairings for 4-24 player rotating partner round robin tournaments is <a href="http://picklebrackets.com"> here</a>. This <a href="../files/KC.pdf">short analysis </a>a> compares some different King's Court methods for rec play. 
 </li></ul>
 <li><a href="https://github.com/drdeford/Pan_Galactic_Solitaire"> Pan Galactic Solitaire</a>.</li>
 <ul><li>A Python version (compiled for Windows) of Pan Galactic Solitaire as introduced by Peter Doyle in the context of 
