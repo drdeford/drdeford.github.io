@@ -8,7 +8,11 @@ redirect_from:
   - /Students.html
 ---
 
-One of the best parts of being a faculty mentor is having the opportunity to mentor student research at all levels, on a wide variety of project topics broadly aligned with my research interests. The links below give a sense of the kinds of work students have pursued with me and current Vassar students interested in working on similar projects are welcome to contact me to discuss potential projects. I have also supervised students during the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program, as well as serving as a mentor and the mentor coordinator for WSU's <a href="https://provost.wsu.edu/stem-sss/stem-engagement/">Research and Mentoring Program</a>. 
+One of the best parts of being a faculty member is having the opportunity to mentor student research at all levels, on a wide variety of project topics broadly aligned with my research interests. The links below give a sense of the kinds of work students have pursued with me. I have also supervised students through the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program, as well as serving as a mentor and the mentor coordinator for WSU's <a href="https://provost.wsu.edu/stem-sss/stem-engagement/">Research and Mentoring Program</a>. 
+
+<hr>
+
+If you are a current Vassar student who is interested in working with me, feel free to send me an email or stop by my office to chat. This <a href="../Files/Potential_Student_Projects.pdf"> link </a> contains some specific project descriptions that I have in mind but you are also encouraged to browse my <a href="/Research/> Research Page</a> to get a sense for the kinds of topics that I work on. 
 
 
 <hr>
