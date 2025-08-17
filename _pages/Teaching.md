@@ -157,11 +157,11 @@ developed for this program have also been used for stand-alone workshops and tut
 (<a href="http://people.csail.mit.edu/ddeford/mcmc_intro.php">Software</a>)</b> This is an introduction to discrete MCMC that starts with the definition of a probability distribution and builds 
 to discussing how these methods are used in redistricting problems. The text is supplemented with
 a large collection of interactive tools for exploring the concepts in more depth. </li>
-<li><b>Introduction to GerryChain (<a href="http://people.csail.mit.edu/ddeford/GerryChain_Guide.pdf">Notes)
+<li><b>Introduction to GerryChain</b> (<a href="http://people.csail.mit.edu/ddeford/GerryChain_Guide.pdf">Notes)
 (<a href="https://github.com/vrdi/GerryChain-BootCamp"> Software</a>) (<a href="https://github.com/drdeford/GerryChain-Templates">Templates</a>)</b> 
 GerryChain is our open-source software for constructing districting plans with random walks on graph partitions. 
 This guide walks through all of the main components of the software and the templates show examples on real-world data.  </li>
-<li> <b>Introduction to Complex Networks (<a href="http://people.csail.mit.edu/ddeford/Networks_Qual_Review.pdf">Notes</a>)
+<li> <b>Introduction to Complex Networks</b> (<a href="http://people.csail.mit.edu/ddeford/Networks_Qual_Review.pdf">Notes</a>)
  (<a href="https://github.com/vrdi/Networks-Breakout">Software</a>)</b> This guide explores how methods from the study of complex networks are useful for analyzing redistricting problems. Updated versions of the notes are
 included with the software on GitHub. </li>
 </ul>
