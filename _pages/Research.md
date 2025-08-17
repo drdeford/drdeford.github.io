@@ -93,10 +93,9 @@ A Computational Approach to Measuring Vote Elasticity and Competitiveness</a>, w
 <li> <a href="https://mggg.org/VA-criteria.pdf"> Redistricting Reform in Virginia: Districting Criteria in Context</a>, with M. Duchin, Virginia Policy Review, 12(2), 120-146, (2019). </li>
 
 
-</ol>
 
 <bold><H4> Statistics, Optimization, and Computation</H4></bold>
-<ol>
+
 <li><a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a>, with J. Briscoe, G. Kepler, and A. Gebremedhin, AISTATS25, (2025). </li>
 <li> <a href="https://arxiv.org/abs/2303.02942">Does the first-serving team have
 a structural advantage in pickleball?</a>, with S. Ethier, AMS Contemporary Mathematics Series, 
@@ -119,11 +118,9 @@ with B. Breen, J. Linehan, and D. Rockmore, arxiv: 1710.02687, (2017).</li>
  Parallel Processing, 170-179, (2013).</li>
 
 
-</ol>
 
 
 <bold><H4> Network Science and Combinatorial Graph Theory</H4></bold>
-<ol>
 <li> <a href="https://www.sciencedirect.com/science/article/pii/S0166218X23003943">Ranking Trees Based on Global Centrality Measures</a>, with A. Barghi, Discrete Applied Mathematics, 343, 231-257, (2024). </li> 
 <li> <a href="https://www.mdpi.com/1999-4893/16/5/223">Stirling Numbers of Uniform Trees and Related Computational Experiments</a>, with A. Barghi, Algorithms,  16(5), (2023).  </li> 
 <li> <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301750?dgcid=author"> On the Spectrum of Finite Rooted Homogeneous Trees</a>, 
@@ -147,11 +144,8 @@ Conference on Complex Networks and Applications, Studies in Computational Intell
 <li> <a href="http://fq.math.ca/51-3.html"> Counting Rearrangements on Generalized Wheel Graphs</a>, Fibonacci Quarterly, 51(3), 259-273, (2013).</li>
 
 
-</ol>
-
 
 <bold><H4> Expository Redistricting Articles</H4></bold>
-<ol>
 <li> <a href="http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=823119&p=34&ver=html5"> Redistricting Graphics </a>, MAA Focus, 4(3), 35, (2024). </li>
 <li> <a href="https://mggg.org/publications/political-geometry/17-DefordDuchin.pdf">Random Walks and the Universe of Districting Plans</a>, with M. Duchin,
  Book Chapter in <a href="https://mggg.org/gerrybook">Political Geography</a>, Birkhauser, (2022).</li>
