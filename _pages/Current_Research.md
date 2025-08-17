@@ -63,7 +63,7 @@ and Markov based null models.
 
 <bold><H3>Pickleball Analytics</H3></bold>
 <p>
-<img src="../images/gifR6404.gif" width="24%"  title="Visualization of the shots in a pickleball point."  />
+<img src="../images/gifR6404.gif" width="24%"  title="Visualization of the shots in a pickleball point." />
 </p>
 
 <p>
