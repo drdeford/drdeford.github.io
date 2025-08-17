@@ -76,6 +76,13 @@ One of the best parts of being a faculty mentor is having the opportunity to men
 <li>Topic: Distributions of Gaps in Sorted Data </li>
 <li> Currently a PhD student in Mathematics at WSU </li>
 </ul>
+<li> <a href="https://www.math.wsu.edu/students/gkepler/"> Garrett Kepler</a> (WSU Statistics 2023 - )
+</li>
+<ul> 
+<li>Topic: Sampling Spectrall Similar Graphs </li>
+<li> Currently a PhD student in Mathematics at WSU </li>
+  <li> Publication: <a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a>a> AISTATS25 with J. Briscoe, D. DeFord, and A. Gebremedhin.</li>
+</ul>
 
 </ul>
 
