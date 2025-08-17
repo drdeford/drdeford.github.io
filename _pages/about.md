@@ -14,11 +14,11 @@ redirect_from:
 <hr>
 -->
 
-<p> I am an Assistant Professor of Statistics in the <a href="https://www.vassar.edu/math">Department of Mathematics and Statistics</a> at Vassar College. Previously, I was an Assistant Professor of Data Analytics at WSU and a postdoctoral associate at MIT (CSAIL)
+<p> I am an Assistant Professor of Statistics in the <a href="https://www.vassar.edu/math">Department of Mathematics and Statistics</a> at Vassar College. Previously I was an Assistant Professor of Data Analytics at WSU and a postdoctoral associate at MIT (CSAIL)
  in the
  <a href="http://groups.csail.mit.edu/gdpgroup/">Geometric Data Processing
  Group</a>, working under <a href="http://people.csail.mit.edu/jsolomon/">
- Justin Solomon</a>. I was also affiliated with the <a href="https://mggg.org">Metric Geometry and Gerrymandering Group</a> at Tufts University, 
+ Justin Solomon</a>. While I was a postdoc I was also affiliated with the <a href="https://mggg.org">Metric Geometry and Gerrymandering Group</a> at Tufts University, 
  working with <a href ="https://https://math.cornell.edu/moon-duchin/">Moon Duchin </a> on the mathematics of redistricting. 
  In 2018,  I earned my Ph.D. in mathematics at Dartmouth College under the supervision of 
  <a href="https://home.dartmouth.edu/faculty-directory/daniel-rockmore">
