@@ -17,7 +17,7 @@ This page contains some brief descriptions of my current research interests. For
 
 <bold><H3>Political Redistricting</H3></bold>
 
-<img src="./images/LWAR.gif" width="24%"  title="A  Markov chain on Arkansas partitions. "  />
+<img src="../images/LWAR.gif" width="24%"  title="A  Markov chain on Arkansas partitions. "  />
 
   <p> Political redistricting can be abstracted as a graph partitioning problem subject to a
  variety of legal constraints. My main research in this area focuses on developing methods for efficient 
@@ -29,7 +29,7 @@ details if any of these catch your interest.
 
 <bold><H3> Random Dot Product Graphs </H3></bold>
 
-<img src="./images/EP_Networks.gif" width="24%"  title="RDPG models of European Parliament voting behavior. "  />
+<img src="../images/EP_Networks.gif" width="24%"  title="RDPG models of European Parliament voting behavior. "  />
 
 <p> The Random Dot Product Graph (RDPG) model is a latent space model for complex networks, where 
 each node is associated to a vector in \(\mathbb{R}^d\) and nodes are connected with probability equal 
@@ -45,9 +45,9 @@ structure of the associated graphs. </p>
 <bold><H3>Entropy in Time Series</H3></bold>
 
 <p align="center">
-    <img src="./images/d3walk_colors.gif" width="24%" title="TS visualization with points colored by pattern." />
-  <img src="./images/d3points.gif" width="24%"  title="Distribution of steps in 2d plane. "  />
-  <img src="./images/d3hist.gif" width="24%" title="Corresponding histogram over patterns."/>
+    <img src="../images/d3walk_colors.gif" width="24%" title="TS visualization with points colored by pattern." />
+  <img src="../images/d3points.gif" width="24%"  title="Distribution of steps in 2d plane. "  />
+  <img src="../images/d3hist.gif" width="24%" title="Corresponding histogram over patterns."/>
 </p>
 
 
@@ -61,7 +61,7 @@ and Markov based null models.
 
 <bold><H3>Pickleball Analytics</H3></bold>
 
-<img src="./images/gifR6404.gif" width="24%"  title="Visualization of the shots in a pickleball point."  />
+<img src="../images/gifR6404.gif" width="24%"  title="Visualization of the shots in a pickleball point."  />
 
 Motivated by a recent paper about <a href="https://hdsr.mitpress.mit.edu/pub/uy0zl4i1/release/4?readingCollection=40060419">tennis analytics</a> I have been increasingly interested in analyzing 
 pickleball match data and in studying the bracket design problem for fair recreational and tournament play formats. More information can be found on my <a href="../Other"> Other Writing</a> page.  With S. Ethier we formulated a Markov chain representation of 
@@ -75,7 +75,7 @@ gameplay to evaluate win probabilities under different game models and there are
 
 <bold><H3>Representations and Eigenvalues</H3></bold>
 
-<img src="./images/multi_example.png" width="24%"  title="Regular Tree Eigenvalues. "  />
+<img src="../images/multi_example.png" width="24%"  title="Regular Tree Eigenvalues. "  />
 
 
 The connection between the Fourier transform on finite groups and eigenvalues of Cayley graphs leads to many 
@@ -100,7 +100,7 @@ families of interger spectra graphs,
     
 <bold><H3> Multiplex Networks </H3></bold>
 
-<img src="./images/100_d_go.gif" width="24%"  title="Forced Multiplex Diffusion."  />
+<img src="../images/100_d_go.gif" width="24%"  title="Forced Multiplex Diffusion."  />
 
 <p>While standard network models consider a set of nodes an a binary relation between them, multiplex networks
 allow for many different types of connections between the nodes. For example, we might consider a social multiplex whose nodes are people and where different types of edges represent 
