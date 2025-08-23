@@ -32,7 +32,7 @@ math students contribute to research around voting rights and political redistri
 <ul>
 <li> <b> Fall 2025 </b> </li>
 <ul> 
-<li> <b> Math 144: Foundations of Data Science (Python)  </b> </li>
+<li> <b> Math 144: Foundations of Data Science (R)  </b> </li>
 This course focuses on the development and practice of computational and inferential thinking. Students are introduced to the fundamentals of programming and inference. Students learn to write programs, create data visualizations, and work with real-world datasets, culminating in a final data analysis project. 
   <li> <b>Math 240:  Introduction to Statistics (R) </b> </li>
  The purpose of this course is to introduce the methods by which we extract information from data.  Topics are similar to those in MATH 141, with more coverage of probability and more intense computational and computer work. Statistical software is introduced and used.
