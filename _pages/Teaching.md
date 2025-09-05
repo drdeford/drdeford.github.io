@@ -17,7 +17,7 @@ math students contribute to research around voting rights and political redistri
  <a href="https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> programs. I have also developed and presented
  materials for other instructors on this topic through the <a href="../AMS_EP.md">  AMS Engaged Pedagogy Series</a>. 
 
-<p>In addition to collegiate instruction, the resources I created for   mentoring and coaching middle and high school math teams are <a href="../Problems.md">collected here</a>. For broader descriptions of my perspectives on teaching you can read 
+<p>In addition to collegiate instruction, the resources I created for   mentoring and coaching middle and high school math teams are <a href="../Problems">collected here</a>. For broader descriptions of my perspectives on teaching you can read 
 <a href="https://graduate.dartmouth.edu/news/2017/06/teaching-award-2017-recipient-daryl-deford"> this interview</a> about my graduate student teaching award and my
 <a href="../files/TP24.pdf"> teaching philosophy </a> statement  from the last time I was on the job market. 
 
