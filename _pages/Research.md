@@ -242,7 +242,7 @@ why upsets by lower seeded teams seem relatively common.  </li></ul>
 <li><a href="https://thepickler.com/blogs/pickleball-blog/murmurs-taking-first-serve"> 
 Taking the First Serve</a> (F. Cerabino, The Pickler, 2023).</li>
 <ul><li> Discussion and commentary on my <a href="https://arxiv.org/abs/2303.02942">preprint</a> with 
-Professor Stewart Either about first-server advantages in pickleball.  </li></ul>
+Professor Stewart Ethier about first-server advantages in pickleball.  </li></ul>
 
 <li><a href="https://www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/">How Math Has Changed the Shape of Gerrymandering</a> (M. Orcutt, Quanta, 2023)</li>
 <ul><li> Article about mathematical advances for studying political redistricting that discusses my work on ReCom in Virginia and Colorado. Interesting followup blog post by Dr. Dan Nexon with lots of comments <a href="https://www.lawyersgunsmoneyblog.com/2023/06/extreme-gerrymandering-and-the-purpose-of-elections">here</a>.   </li>
