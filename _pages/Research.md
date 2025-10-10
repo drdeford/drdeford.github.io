@@ -227,7 +227,7 @@ WSU Technical Report Series #2013-2, (2013). </li>
 
 <ol>
 <li><a href="https://www.kuer.org/politics-government/2025-10-10/due-to-the-utah-paradox-theres-a-flaw-in-the-gops-partisan-bias-map-test"> Due to the ‘Utah Paradox,’ there’s a flaw in the GOP’s partisan bias map test </a> (Sean Higgins KUER). </li>
-	<ul><li> Article containing some quotes from me about Utah's Bill and the concept of the Utah Paradox introduced in <a href="https://www.cambridge.org/core/journals/political-analysis/article/implementing-partisan-symmetry-problems-and-paradoxes/82797EC1610275845990DB3248076B63"> this paper</a>.  </li></ul>
+	<ul><li> Article containing some quotes from me about <a href="https://le.utah.gov/~2025S1/bills/static/SB1011.html">Utah's SB1011</a> and the concept of the Utah Paradox introduced in <a href="https://www.cambridge.org/core/journals/political-analysis/article/implementing-partisan-symmetry-problems-and-paradoxes/82797EC1610275845990DB3248076B63"> this paper</a>.  </li></ul>
 
 <li><a href="https://news.wsu.edu/news/2024/10/28/deford-receives-university-of-chicago-outstanding-educator-award/"> 
 	DeFord receives University of Chicago Outstanding Educator Award </a> (WSU CAS Staff, 2024). </li>
