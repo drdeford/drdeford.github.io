@@ -67,6 +67,8 @@ https://www.cambridge.org/core/journals/political-analysis/article/abs/partisan-
 
 <bold><H4> Data Science of Redistricting and Elections</H4></bold>
 <ol>
+	<li> <a href="https://arxiv.org/abs/2510.17714"> The Marked Edge Walk: A Novel MCMC Algorithm for Sampling of Graph Partitions</a>, with A. McWhorter**, arXiv: 2510.17714, (2025). </li> 
+
 	<li> <a href="https://arxiv.org/abs/2509.08629">A Cycle Walk for Sampling Measures on Spanning Forests for Redistricting</a>, with G. Herschlag and J. Mattingly, arXiv: 2509.08629, (2025). </li>
 	<li> <a href="https://arxiv.org/abs/2509.07328">Free Elections in the Free State: Ensemble Analysis of Redistricting in New Hampshire</a>, with A. McWhorter, arXiv: 2509.07328, (2025). </li>
 	<li> <a href="https://arxiv.org/abs/2406.12167">Bounds and Bugs: The Limits of Symmetry Metrics to Detect Partisan Gerrymandering</a>, with E. Veomett, Election Law Journal, (2025). </li>
