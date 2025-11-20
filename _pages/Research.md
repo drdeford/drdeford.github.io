@@ -230,7 +230,10 @@ WSU Technical Report Series #2013-2, (2013). </li>
 <ol>
 	<li><a href="https://askdruniverse.wsu.edu/2025/11/20/whats-hardest-math-equation-world/">Ask Dr. Universe: What is the hardest math equation in the world?</a> (Melissa Mayer WSU Communications, 2025).</li>
 	<ul><li> Brief interview about hard math problems in  an educational series for children. </li></ul>
-
+<li><a href="https://www.vassar.edu/news/new-professors-bring-expertise-spanning-virology-to-volcanoes">
+New Faculty Members Bring Expertise Spanning Virology to Volcanoes
+</a> (Larry Hertz Vassar Communications, 2025).</li>
+	<ul><li> Brief introduction as a new faculty member at Vassar College.  </li></ul>
 <li><a href="https://www.kuer.org/politics-government/2025-10-10/due-to-the-utah-paradox-theres-a-flaw-in-the-gops-partisan-bias-map-test"> Due to the ‘Utah Paradox,’ there’s a flaw in the GOP’s partisan bias map test </a> (Sean Higgins KUER, 2025). </li>
 	<ul><li> Article containing some quotes from me about <a href="https://le.utah.gov/~2025S1/bills/static/SB1011.html">Utah's SB1011</a> and the concept of the Utah Paradox introduced in <a href="https://www.cambridge.org/core/journals/political-analysis/article/implementing-partisan-symmetry-problems-and-paradoxes/82797EC1610275845990DB3248076B63"> this paper</a>.  </li></ul>
 
