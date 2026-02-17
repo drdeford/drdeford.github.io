@@ -29,7 +29,7 @@ the resources and activities we put together.
 <li> <a href = "../AMS_EP_Materials/AMS_EP_Gerry_part_II.pdf">My Presentation Slides (Mathematics of Redistricting Part II)</a> </li>
 
 <ul><li> <a href = "../AMS_EP_Materials/AMS_EP_SRP_Warmup.pdf"> Warmup Activities</a> </li>
-<li> <a href = "../AMS_EP_Materials/AMS_Gerry_Tradeoffs_Activity2.pdf">Tradeoffs and Metrics </a> </li>
+<li> <a href = "../AMS_EP_Materials/AMS_Gerry_Tradeoffs_Activity2.pdf">Tradeoffs and Metrics </a> and <a href = "../AMS_EP_Materials/AMS_Gerry_Tradeoffs_Activity1.pdf">Activity 2 </a></li>
 <li> <a href = "../AMS_EP_Materials/AMS_Gerry_Operationalization_Activity1.pdf">  Operationalization</a> and <a href = "../AMS_EP_Materials/AMS_Gerry_Operationalization_Activity2.pdf">  Activity 2</a></li>
 <li> <a href = "../AMS_EP_Materials/AMS_Gerry_Iowa_Activity1.pdf">  Districtr</a> and <a href = "../AMS_EP_Materials/AMS_Gerry_Iowa_Activity2.pdf">  Activity 2</a></li>
 <li> <a href = "../AMS_EP_Materials/Gerry_Gridlandia.pdf"> Gridlandia Activity</a> </li>
