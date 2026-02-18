@@ -33,7 +33,7 @@ the resources and activities we put together.
 <li> <a href = "../AMS_EP_Materials/AMS_Gerry_Operationalization_Activity1.pdf">  Operationalization</a> and <a href = "../AMS_EP_Materials/AMS_Gerry_Operationalization_Activity2.pdf">  Activity 2</a></li>
 <li> <a href = "../AMS_EP_Materials/AMS_Gerry_Iowa_Activity1.pdf">  Districtr</a> and <a href = "../AMS_EP_Materials/AMS_Gerry_Iowa_Activity2.pdf">  Activity 2</a></li>
 <li> <a href = "../AMS_EP_Materials/Gerry_Gridlandia.pdf"> Gridlandia Activity</a> </li>
-<li> <a href = "../AMS_EP_Materials/Gerry_Games.pdf"> Gerry Games</a> </li>
+<li> <a href = "../AMS_EP_Materials/Gerry_Games.pdf"> Gerry Games</a> (<a href = "../AMS_EP_Materials/GerryFreeze.pdf">freeze example</a>) (<a href = "../AMS_EP_Materials/GerryPair.pdf">merge example</a>) </li>
 </ul>
 <li><a href="https://docs.google.com/document/d/1FBPtVr5kZGXSbKX1TgW5fZYJJY-udMuNlG9I6gyZYwY/edit?usp=sharing">Partial Bibliography</a></li>
  </ul>
