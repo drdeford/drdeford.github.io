@@ -34,7 +34,7 @@ pairings for 4-24 player rotating partner round robin tournaments is <a href="ht
 <li><a href="../files/Networks_Not_Graphs.pdf">Applied Mathematics and Network Science</a>.</li>
 <ul><li>This is a short piece describing my personal philosophy of applied mathematics and addressing
 the differences between graphs and networks.  </li></ul>
-<li><a href="..files/The_Written_Qual_Book.pdf">The Written Qual Book</a> (with D. Freund).</li>
+<li><a href="../files/The_Written_Qual_Book.pdf">The Written Qual Book</a> (with D. Freund).</li>
 <ul> <li> This is a 274 page book containing solutions to all of the written qualifying exam problems
 that were given in the Dartmouth Math Department from 2012-2017. In addition to the solutions, we
 included 20 pages of expository material on how to survive graduate school and many helpful appendices. There are
