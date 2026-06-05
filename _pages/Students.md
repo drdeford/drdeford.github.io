@@ -73,6 +73,7 @@ If you are a current Vassar student who is interested in working with me, feel f
 
 </ul>
 <hr>
+<!--
 <h3> Current MS Students </h3>
 <ul>
 <li> <a href="https://www.math.wsu.edu/students/jwiden/"> Jon Widen</a> (WSU Statistics 2023 - )
@@ -90,10 +91,24 @@ If you are a current Vassar student who is interested in working with me, feel f
 </ul>
 
 </ul>
-
+-->
 <hr>
 <h3> Graduated MS Students </h3>
 <ul>
+  <li> <a href="https://www.math.wsu.edu/students/jwiden/"> Jon Widen</a> (WSU Statistics 2023 - 2025)
+</li>
+<ul> 
+<li>Topic: Distributions of Gaps in Sorted Data </li>
+<li> Currently a PhD student in Mathematics at WSU </li>
+</ul>
+<li> <a href="https://www.math.wsu.edu/students/gkepler/"> Garrett Kepler</a> (WSU Statistics 2023 - 2026)
+</li>
+<ul> 
+<li>Topic: Sampling Spectrally Similar Graphs </li>
+<li> Currently a PhD student in Mathematics at WSU </li>
+  <li> Publication: <a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a> AISTATS25 with J. Briscoe, D. DeFord, and A. Gebremedhin.</li>
+</ul>
+
   <li> <a href="https://www.math.wsu.edu/students/ppeaungvongpakdy/"> Phousawanh Peaungvongpakdy </a> (WSU Statistics 2022 - 2025)
 </li>
 <ul> 
