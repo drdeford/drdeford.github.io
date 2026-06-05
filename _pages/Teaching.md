@@ -30,6 +30,15 @@ math students contribute to research around voting rights and political redistri
 <hr>
 <h3> Vassar College </h3>
 <ul>
+  <li> <b> Spring 2026 </b> </li>
+<ul> 
+<li> <b> Math 242: Applied Statistical Modeling (R)  </b> </li>
+Applied Statistical Modeling is offered as a second course in statistics in which we present a set of case studies and introduce appropriate statistical modeling techniques for each. Topics may include: multiple linear regression, logistic regression, log-linear regression, survival analysis, an introduction to Bayesian modeling, and modeling via simulation. Other topics may be substituted for these or added as time allows. Students are expected to conduct data analyses in R.
+  <li> <b>Math 383:  Statistical Inference for Social Network Data (Python) </b> </li>
+ This course will introduce statistical tools, theory, and methodology for analyzing complex social systems with network models. Students will be introduced to standard network constructions and associated centrality metrics, clustering algorithms, and dynamical models through classic papers and examples. A main focus of the course will be generative models for social network data and the theory and computation of associated inference problems, including MCMC sampling. In addition to the Erdos-Renyi and stochastic block models, special attention will be paid to the family of Exponential Random Graph Models and Latent Space models, which have found significant applications across the social sciences in recent years. Students will gain experience performing inference and doing analysis on real data. 
+
+</ul>
+
 <li> <b> Fall 2025 </b> </li>
 <ul> 
 <li> <b> Math 144: Foundations of Data Science (R)  </b> </li>
