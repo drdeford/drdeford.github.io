@@ -51,6 +51,7 @@ If you are a current Vassar student who is interested in working with me, feel f
 </li>
 <ul> 
 <li>Thesis: Causal Inference in Survey Data and Divergence Measures in Ordinal Patterns </li>
+  <li> 2026 CISER Best Statistics Dissertation Award</li>
 </ul>
 
   <li> <a href="https://www.math.wsu.edu/students/mhasan/">Dr. Md. Mahedi Hasan</a> (WSU Statistics 2022 - 2025 )
