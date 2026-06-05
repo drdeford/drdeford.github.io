@@ -8,7 +8,7 @@ redirect_from:
   - /Students.html
 ---
 
-One of the best parts of being a faculty member is having the opportunity to mentor student research at all levels, on a wide variety of project topics broadly aligned with my research interests. The links below give a sense of the kinds of work students have pursued with me. I have also supervised students through the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a> and the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program, as well as serving as a mentor and the mentor coordinator for WSU's <a href="https://provost.wsu.edu/stem-sss/stem-engagement/">Research and Mentoring Program</a>. 
+One of the best parts of being a faculty member is having the opportunity to mentor student research at all levels, on a wide variety of project topics broadly aligned with my research interests. The links below give a sense of the kinds of work students have pursued with me. I have also supervised students through the <a href ="https://sites.tufts.edu/vrdi/"> Voting Rights Data Institute </a>, the <a href = "https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> program,  and Vassar's <a href="https://www.vassar.edu/ursi"> Undergraduate Research Summer Institute</a> as well as serving as a mentor and the mentor coordinator for WSU's <a href="https://provost.wsu.edu/stem-sss/stem-engagement/">Research and Mentoring Program</a>. 
 
 <hr>
 
@@ -19,11 +19,6 @@ If you are a current Vassar student who is interested in working with me, feel f
 <h3> Current PhD Students </h3>
 <ul>
 
-<li> <a href="https://www.math.wsu.edu/students/wxie/"> Weiwei Xie </a> (Coadvised with Dean Johnson WSU Statistics 2022 - )
-</li>
-<ul> 
-<li>Topic: Null models for time series entropy </li>
-</ul>
 
 <!--
 <li> <a href="https://www.math.wsu.edu/students/pgambill/"> Patrick Gambill </a> (WSU Mathematics 2022 - )
@@ -52,6 +47,12 @@ If you are a current Vassar student who is interested in working with me, feel f
 <hr>
 <h3> Graduated  PhD Students </h3>
 <ul>
+  <li> <a href="https://www.math.wsu.edu/students/wxie/"> Weiwei Xie </a> (Coadvised with Dean Johnson WSU Statistics 2022 - 2026 )
+</li>
+<ul> 
+<li>Thesis: Causal Inference in Survey Data and Divergence Measures in Ordinal Patterns </li>
+</ul>
+
   <li> <a href="https://www.math.wsu.edu/students/mhasan/">Dr. Md. Mahedi Hasan</a> (WSU Statistics 2022 - 2025 )
 </li>
 <ul> 
