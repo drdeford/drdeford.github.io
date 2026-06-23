@@ -125,6 +125,7 @@ with B. Breen, J. Linehan, and D. Rockmore, arxiv: 1710.02687, (2017).</li>
 
 
 <bold><H4> Network Science and Combinatorial Graph Theory</H4></bold>
+<li> <a href="https://www.ejgta.org/index.php/ejgta/article/view/1974">Labeled graph rearrangements on matched and star products</a>, with A. Barghi, Electronic Journal of Graph Theory and Applications, 14(1), 99-125, (2026). </li>
 <li> <a href="https://www.sciencedirect.com/science/article/pii/S0166218X23003943">Ranking Trees Based on Global Centrality Measures</a>, with A. Barghi, Discrete Applied Mathematics, 343, 231-257, (2024). </li> 
 <li> <a href="https://www.mdpi.com/1999-4893/16/5/223">Stirling Numbers of Uniform Trees and Related Computational Experiments</a>, with A. Barghi, Algorithms,  16(5), (2023).  </li> 
 <li> <a href="https://www.sciencedirect.com/science/article/pii/S0024379520301750?dgcid=author"> On the Spectrum of Finite Rooted Homogeneous Trees</a>, 
