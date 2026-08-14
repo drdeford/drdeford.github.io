@@ -171,19 +171,35 @@ Sahil Patil</a> (WSU Statistics 2023 - 2024 )
 <h3> Current Undergraduate Students </h3>
 
 <ul> 
-<li>Olivia McGrew (WSU Math 2024 - )</li>
-<ul> 
-<li>Topic: Graph Theory, Markov chains, and computational redistricting</li>
+<li>Angela Moon and Cristian Castellanos (Vassar URSI 2026)</li>
+<ul>
+  <li>Topic: The Impact of the VRA on Minority Representation: What “Race-Blind” Redistricting Looks Like in Southern States </li>
 </ul>
+
 
 </ul>
 <hr>
 <h3> Former Undergraduate Students </h3>
 
-
-
-
 <ul>
+  <li>Wilson Prieve and Matthew Leger (Vassar Stats 2026)</li>
+<ul>
+  <li>Topic: Generative models for ranked choice ballots</li>
+</ul>
+  <li> Matthew Okulski and Eungman Joo (Vassar Stats 2026)</li>
+<ul>
+  <li>Topic: Ratings bubbles in racquet sports ranking systems</li>
+</ul>
+<li>Charlie Townsend (Vassar Stats 2026)</li>
+<ul>
+  <li>Topic: Road network congestion and discrete Ricci curvature</li>
+</ul>
+  
+  <li>Olivia McGrew (WSU Math 2024 - 2025)</li>
+<ul> 
+<li>Topic: Graph Theory, Markov chains, and computational redistricting (plus elevator scheduling)</li>
+  <li>SURCA Poster Award Winner 2024</li>
+</ul>
 <li> Eric Simpson (WSU Hacker Scholarship 2023)
 </li>
 <ul> 
