@@ -27,6 +27,21 @@ If you are a current Vassar student who is interested in working with me, feel f
 <li>Topic: Clustering metrics for multiplex networks </li>
 </ul>
 -->
+<li> <a href="https://amcwhorter.github.io/index.html"> Atticus McWhorter </a> (Dartmouth Mathematics 2023 - )
+</li>
+<ul> 
+<li>Topic: Applying new sampling algorithms for graph partitions to analyze representation and voting rights </li>
+<li> Summer 2025 Co-mentor for URSI and MCURE REUs </li>
+  <li> Joint Papers: 
+  <ul> 
+    <li>  The Marked Edge Walk: A Novel MCMC Algorithm for Sampling of Graph Partitions (https://arxiv.org/abs/2510.17714) </li>
+    <li> Redistricting from the Bottom Up: Sampling Communities of Interest with Differential Privacy (with C. Hammond and N. P. Ju https://arxiv.org/abs/2606.14453)</li>
+    <li> Free elections in the free state: ensemble analysis of redistricting in New Hampshire  (https://link.springer.com/article/10.1007/s42001-026-00466-3 Journal of Computational Social Science)</li>
+  </ul>
+  </li>
+  </ul>
+
+
 <li> <a href="https://www.math.wsu.edu/students/ppeaungvongpakdy/"> Phousawanh Peaungvongpakdy </a> (WSU Mathematics 2022 - )
 </li>
 <ul> 
