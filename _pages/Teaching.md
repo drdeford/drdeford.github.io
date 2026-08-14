@@ -12,7 +12,7 @@ redirect_from:
  into the classroom. Examples of my course materials can be found in the links below. </p>
   
 <p>As a result of my work analyzing gerrymandering I also focus  on the social impact of mathematical modeling in my teaching and have developed several sets of materials for helping 
-math students contribute to research around voting rights and political redistricting, which I used while supervising students through the 
+math students contribute to research around voting rights and political redistricting, which I used while supervising students through Vassar's <a href="https://www.vassar.edu/ursi">URSI program</a>, Colorado College's <a href="https://www.coloradocollege.edu/academics/dept/mathcs/mcure/mcure2026.html"> MCURE</a> on Math, Democracy, and Representation, the 
 <a href="https://sites.tufts.edu/vrdi/">Voting Rights Data Institute</a> and the UW eScience 
  <a href="https://uwescience.github.io/DSSG2021-redistricting-website/">Data Science for Social Good</a> programs. I have also developed and presented
  materials for other instructors on this topic through the <a href="../AMS_EP.md">  AMS Engaged Pedagogy Series</a>. 
