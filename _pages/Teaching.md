@@ -30,6 +30,15 @@ math students contribute to research around voting rights and political redistri
 <hr>
 <h3> Vassar College </h3>
 <ul>
+    <li> <b> Fall 2026 </b> </li>
+<ul> 
+<li> <b> Math 144: Foundations of Data Science (R)  </b> </li>
+This course focuses on the development and practice of computational and inferential thinking. Students are introduced to the fundamentals of programming and inference. Students learn to write programs, create data visualizations, and work with real-world datasets, culminating in a final data analysis project. 
+  <li> <b>Math 347:  Bayesian Statistics (R) </b> </li>
+ An introduction to Bayesian statistics. Topics include Bayes Theorem, common prior and posterior distributions, hierarchical models, Bayesian linear regression, latent variable models, and Markov chain Monte Carlo methods. The course uses R extensively for simulations.  
+
+</ul>
+
   <li> <b> Spring 2026 </b> </li>
 <ul> 
 <li> <b> Math 242: Applied Statistical Modeling (R)  </b> </li>
