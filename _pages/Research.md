@@ -15,7 +15,7 @@ Research Papers
 -->
 
 <div id="main">
- <p> My main research interests fall into an area that is often referred to as quantiative or computational social science as I'm particularly interested in
+ <p> My main research interests fall into an area that is often referred to as quantitative or computational social science as I'm particularly interested in
  discrete and probabilistic problems that arise in the study of social data. My PhD work focused on models for dynamics on social networks, including economic networks, and I've continued 
 to work in this area, as well as on theoretical questions in graph theory. Currently, much of my work is motivated by political redistricting and applications of 
 computational sampling methods to both detecting gerrymandering and analyzing the policy impacts of redistricting rules. I also have related interests in the analysis of voting data
@@ -67,6 +67,7 @@ https://www.cambridge.org/core/journals/political-analysis/article/abs/partisan-
 
 <bold><H4> Data Science of Redistricting and Elections</H4></bold>
 <ol>
+	<li><a href="https://arxiv.org/abs/2606.14453">Redistricting from the Bottom Up: Sampling Communities of Interest with Differential Privacy </a>, with A. McWhorter, C. Hammond, and N. P. Ju, arxiv:2606:14453, (2026). </li>
 	<li> <a href="https://arxiv.org/abs/2510.17714"> The Marked Edge Walk: A Novel MCMC Algorithm for Sampling of Graph Partitions</a>, with A. McWhorter, arXiv: 2510.17714, (2025). </li> 
 
 	<li> <a href="https://arxiv.org/abs/2509.08629">A Cycle Walk for Sampling Measures on Spanning Forests for Redistricting</a>, with G. Herschlag and J. Mattingly, arXiv: 2509.08629, (2025). </li>
