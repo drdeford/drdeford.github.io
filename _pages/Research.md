@@ -100,7 +100,7 @@ A Computational Approach to Measuring Vote Elasticity and Competitiveness</a>, w
 
 
 <bold><H4> Statistics, Optimization, and Computation</H4></bold>
-<li> <a href="[https://arxiv.org/abs/2303.02942](https://pubs.ams.org/ebooks/conm/844/)">Does the first-serving team have
+<li> <a href="https://pubs.ams.org/ebooks/conm/844/">Does the first-serving team have
 a structural advantage in pickleball?</a>, with S. Ethier, AMS Contemporary Mathematics Series, 
  (2026). </li>
 <li><a href="https://arxiv.org/abs/2505.03992">Algorithmic Accountability in Small Data: Sample-Size-Induced Bias Within Classification Metrics</a>, with J. Briscoe, G. Kepler, and A. Gebremedhin, AISTATS25, (2025). </li>
