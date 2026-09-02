@@ -229,6 +229,8 @@ WSU Technical Report Series #2013-2, (2013). </li>
 <bold><H3> Media Coverage</H3></bold>
 
 <ol>
+	<li><a href="https://www.vassar.edu/news/black-holes-large-language-models">From Black Holes to Large Language Models</a> (Larry Hertz Vassar Communications, 2026).</li>
+	<ul><li>Summary and interviews about student work during Vassar's URSI program studying the VRA post-Callais </li></ul>
 	<li><a href="https://askdruniverse.wsu.edu/2025/11/20/whats-hardest-math-equation-world/">Ask Dr. Universe: What is the hardest math equation in the world?</a> (Melissa Mayer WSU Communications, 2025).</li>
 	<ul><li> Brief interview about hard math problems in  an educational series for children. </li></ul>
 <li><a href="https://www.vassar.edu/news/new-professors-bring-expertise-spanning-virology-to-volcanoes">
