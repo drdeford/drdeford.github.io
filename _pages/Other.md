@@ -17,7 +17,7 @@ This page collects some of my writing on miscellaneous topics that don't fit nat
 <ul> 
 <li> Detailed commentary about my experiences applying for academic jobs in mathematics in the US. Also includes links to some resources developed for Math 581.03 at WSU, which is a professional development course for graduating students. </li>
 </ul> 
-<li><a href="../files/TP24.pdf"> Cribbage-Poker Rules</a>.</li>
+<li><a href="../files/Cribbage24.pdf"> Cribbage-Poker Rules</a>.</li>
 <ul><li> A modified ruleset for the game of Cribbage that my wife and I developed. It adds a betting phase and several categories of bonus points to speed up play. 
 </li></ul>
 <li><a href="../files/Pickleball_Diagrams.pdf"> Pickleball Notes and Diagrams</a>.</li>
