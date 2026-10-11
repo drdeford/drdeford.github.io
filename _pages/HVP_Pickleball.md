@@ -21,31 +21,31 @@ I've been teaching lessons and writing about pickleball for about a decade. My m
 <hr>
 
 <p align="center">
-<img src="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/one_point.gif" width="24%"  title="One Pickleball Point." />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/one_point.gif" width="24%"  title="One Pickleball Point." />
 </p>
 
 <hr>
 
 <h3>HVP Monday Drilling Sessions</h3> 
 
-Below are the details for the Monday night drilling sessions at HVP. The overview document with some details and session structure is  <a href="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/HVP_Season_Court_Intro.pdf"> here</a>.
+Below are the details for the Monday night drilling sessions at HVP. The overview document with some details and session structure is  <a href="../Pickleball_materials/HVP_Season_Court_Intro.pdf"> here</a>.
 
 <hr>
 
 <p align="center">
-<img src="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/wide-and-slide-backhand-middle.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/wide-and-slide-backhand-middle.gif" width="24%"  title="Wide and Slide Drill" />
 </p>
 
 <hr> 
 
 <h4> Week 1: Kitchen Tactics</h4>h4>
 
-Here is the drilling guide for week 1: <a href="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/HVP_Session_1_Drills.pdf"> (.pdf link) </a>
+Here is the drilling guide for week 1: <a href="../Pickleball_materials/HVP_Session_1_Drills.pdf"> (.pdf link) </a>
 
 <ol>
   <li>Warmup: Figure 8 Dinks </li>
   <p align="center">
-<img src="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/01-figure-eight-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-figure-eight-court-only.gif" width="24%"  title="Wide and Slide Drill" />
 </p>
   <li>Mechanic: Crosscourt dink consistency</li>
   <li>Mechanic: Wide vs. center dinks</li>
