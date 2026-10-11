@@ -18,18 +18,25 @@ Research Papers
 
 I've been teaching lessons and writing about pickleball for about a decade. My main set of notes and diagrams is <a href="../files/Pickleball_Diagrams.pdf"> here</a> and I also maintain a couple of apps related to pickleball. This one (<a href="http://picklebrackets.com"> PickleBrackets</a>) generates mixed partner round robin brackets and this one (<a href="http://pblapp.com">PBL App</a>) is for running pickleball leagues. I've also published an academic paper about <a href="https://arxiv.org/abs/2303.02942">whether you should serve first in doubles</a> with Stewart Ethier. 
 
+<hr>
+
 <p align="center">
 <img src="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/one_point.gif" width="24%"  title="One Pickleball Point." />
 </p>
+
 <hr>
 
 <h3>HVP Monday Drilling Sessions</h3> 
 
 Below are the details for the Monday night drilling sessions at HVP. The overview document with some details and session structure is  <a href="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/HVP_Season_Court_Intro.pdf"> here</a>.
 
+<hr>
+
 <p align="center">
 <img src="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/wide-and-slide-backhand-middle.gif" width="24%"  title="Wide and Slide Drill" />
 </p>
+
+<hr> 
 
 <h4> Week 1: Kitchen Tactics</h4>h4>
 
