@@ -24,12 +24,24 @@ I've been teaching lessons and writing about pickleball for about a decade. My m
 
 ## HVP Monday Drilling Sessions
 
-Below are the details for the Monday night drilling sessions at HVP. The overview document with some details and 
+Below are the details for the Monday night drilling sessions at HVP. The overview document with some details and session structure is  <a href="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/HVP_Season_Court_Intro.pdf"> here</a>.
+
+
+![Wide and Slide](https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/wide-and-slide-backhand-middle.gif)
 
 
 ### Week 1: Kitchen Tactics
 
+Here is the drilling guide for week 1: <a href="https://github.com/drdeford/drdeford.github.io/blob/master/Pickleball_materials/HVP_Session_1_Drills.pdf"> (.pdf link) </a>
 
+<ol>
+  <li>Warmup: Figure 8 Dinks </li>
+  <li>Mechanic: Crosscourt dink consistency</li>
+  <li>Mechanic: Wide vs. center dinks</li>
+  <li>Tactic: Wide and Slide</li>
+    <li>Mechanic: Speedup and Reset</li>
+  <li>Strategy: 2 on 1 targeting </li>
+</ol>
 
 
 
