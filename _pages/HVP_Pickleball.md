@@ -38,7 +38,7 @@ Below are the details for the Monday night drilling sessions at HVP. The overvie
 
 <hr> 
 
-<h4> Week 1: Kitchen Tactics</h4>h4>
+<h4> Week 1: Kitchen Tactics</h4>
 
 Here is the drilling guide for week 1: <a href="../Pickleball_materials/HVP_Session_1_Drills.pdf"> (.pdf link) </a>
 
@@ -48,10 +48,30 @@ Here is the drilling guide for week 1: <a href="../Pickleball_materials/HVP_Sess
 <img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-figure-eight-court-only.gif" width="24%"  title="Wide and Slide Drill" />
 </p>
   <li>Mechanic: Crosscourt dink consistency</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-outside-crosscourt-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
   <li>Mechanic: Wide vs. center dinks</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-center-wide-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
   <li>Tactic: Wide and Slide</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-wide-and-slide-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
     <li>Mechanic: Speedup and Reset</li>
+      <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/05-speedup-reset-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
   <li>Strategy: 2 on 1 targeting </li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/05-two-on-one-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
 </ol>
 
 
