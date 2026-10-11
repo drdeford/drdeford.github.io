@@ -14,11 +14,14 @@ main:
   - title: "Resources"
     url: /Resources/
 
+  - title: "Students"
+    url: /Students/
+
   - title: "Other Writing"
     url: /Other/
 
-  - title: "Students"
-    url: /Students/
+  - title: "Pickleball"
+    url: /HVP_Pickleball/
 
   - title: "CV"
     url: ./files/DeFord_CV.pdf
