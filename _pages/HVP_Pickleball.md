@@ -26,7 +26,7 @@ I've been teaching lessons and writing about pickleball for about a decade. My m
 
 <hr>
 
-<h3>HVP Monday Drilling Sessions</h3> 
+<h2>HVP Monday Drilling Sessions</h2> 
 
 Below are the details for the Monday night drilling sessions at HVP. The overview document with some details and session structure is  <a href="../Pickleball_materials/HVP_Season_Court_Intro.pdf"> here</a>.
 
@@ -38,7 +38,7 @@ Below are the details for the Monday night drilling sessions at HVP. The overvie
 
 <hr> 
 
-<h4> Week 1: Kitchen Tactics</h4>
+<h3> Week 1: Kitchen Tactics</h3>
 
 Here is the drilling guide for week 1: <a href="../Pickleball_materials/HVP_Session_1_Drills.pdf"> (.pdf link) </a>
 
