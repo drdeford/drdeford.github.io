@@ -62,7 +62,7 @@ Here is the drilling guide for week 1: <a href="../Pickleball_materials/HVP_Sess
 <img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-wide-and-slide-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
-    <li>Mechanic: Speedup and Reset</li>
+  <li>Mechanic: Speedup and Reset </li>
       <p align="center">
 <img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/05-speedup-reset-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
