@@ -75,6 +75,33 @@ Here is the drilling guide for week 1: <a href="../Pickleball_materials/HVP_Sess
 </ol>
 
 
+<h3> Week 2: Intentional Decisions</h3>
+
+Here is the drilling guide for week 2: <a href="../Pickleball_materials/HVP_Session_2_Drills.pdf"> (.pdf link) </a>
+
+<ol>
+  <li>Tactic: Dink Patterns (2 wide 1 center) </li>
+  <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-dink-patterns-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+  <li>Mechanic: Targeted Serves and Returns</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-targeted-serves-returns-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Tactic: Speedup and Reset dinks</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-speedup-reset-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Strategy: Six Ball Points</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-six-ball-seventh-shot-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+</p>
+
+
+
+</ol>
 
 
 
