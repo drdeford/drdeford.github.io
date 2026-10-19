@@ -21,7 +21,7 @@ I've been teaching lessons and writing about pickleball for about a decade. My m
 <hr>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/one_point.gif" width="24%"  title="One Pickleball Point." />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/one_point.gif" width="75%"  title="One Pickleball Point." />
 </p>
 
 <hr>
@@ -33,7 +33,7 @@ Below are the details for the Monday night drilling sessions at HVP. The overvie
 <hr>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/wide-and-slide-backhand-middle.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/wide-and-slide-backhand-middle.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
 <hr> 
@@ -45,31 +45,31 @@ Here is the drilling guide for week 1: <a href="../Pickleball_materials/HVP_Sess
 <ol>
   <li>Warmup: Figure 8 Dinks </li>
   <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-figure-eight-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-figure-eight-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
   <li>Mechanic: Crosscourt dink consistency</li>
     <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-outside-crosscourt-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-outside-crosscourt-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
   <li>Mechanic: Wide vs. center dinks</li>
     <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-center-wide-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-center-wide-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
   <li>Tactic: Wide and Slide</li>
     <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-wide-and-slide-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-wide-and-slide-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
     <li>Mechanic: Speedup and Reset</li>
       <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/05-speedup-reset-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/05-speedup-reset-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
   <li>Strategy: 2 on 1 targeting </li>
     <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/05-two-on-one-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/05-two-on-one-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
 </ol>
@@ -82,21 +82,21 @@ Here is the drilling guide for week 2: <a href="../Pickleball_materials/HVP_Sess
 <ol>
   <li>Tactic: Dink Patterns (2 wide 1 center) </li>
   <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-dink-patterns-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-dink-patterns-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
   <li>Mechanic: Targeted Serves and Returns</li>
     <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-targeted-serves-returns-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-targeted-serves-returns-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
   <li>Tactic: Speedup and Reset dinks</li>
     <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-speedup-reset-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-speedup-reset-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
   <li>Strategy: Six Ball Points</li>
     <p align="center">
-<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-six-ball-seventh-shot-court-only.gif" width="24%"  title="Wide and Slide Drill" />
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-six-ball-seventh-shot-court-only.gif" width="75%"  title="Wide and Slide Drill" />
 </p>
 
 
