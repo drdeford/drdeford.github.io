@@ -67,6 +67,7 @@ https://www.cambridge.org/core/journals/political-analysis/article/abs/partisan-
 
 <bold><H4> Data Science of Redistricting and Elections</H4></bold>
 <ol>
+	<li><a href="https://arxiv.org/abs/2610.27297">District Size Matters: How Seats Per District Shapes Proportionality Under STV</a>, with T. Ratliff and E. Veomett, arXiv: 2610.27297, submitted (2026). </li>
 	<li><a href="https://arxiv.org/abs/2606.14453">Redistricting from the Bottom Up: Sampling Communities of Interest with Differential Privacy </a>, with A. McWhorter, C. Hammond, and N. P. Ju, La Mathematica, accepted (2026). </li>
 	<li> <a href="https://arxiv.org/abs/2510.17714"> The Marked Edge Walk: A Novel MCMC Algorithm for Sampling of Graph Partitions</a>, with A. McWhorter, Journal of Data Science, accepted (2026). </li> 
 
