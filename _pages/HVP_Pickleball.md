@@ -103,5 +103,34 @@ Here is the drilling guide for week 2: <a href="../Pickleball_materials/HVP_Sess
 
 </ol>
 
+<h3> Week 3: Drives, Slides, and Speedups </h3>
+
+Here is the drilling guide for week 3: <a href="../Pickleball_materials/HVP_Session_3_Drills.pdf"> (.pdf link) </a>
+
+<ol>
+  <li>Mechanic: Deep Drives </li>
+  <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-deep-drives-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+  <li>Tactic: Passing Shots</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-passing-shots-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Tactic: Slide, Counter, and Cover</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-slide-counter-cover-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Speedup Off the Bounce</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-bounce-speedup-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+
+
+</ol>
+
+
 
 
