@@ -132,5 +132,36 @@ Here is the drilling guide for week 3: <a href="../Pickleball_materials/HVP_Sess
 </ol>
 
 
+<h3> Week 4: Ernes </h3>
+
+Here is the drilling guide for week 4: <a href="../Pickleball_materials/HVP_Session_4_Drills.pdf"> (.pdf link) </a>
+
+<ol>
+  <li>Mechanic: 7-11 </li>
+  <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-seven-eleven-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+  <li>Tactic: Bailout Dinks</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-bailout-dink-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Tactic: Erne Basics</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-erne-practice-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Speedup Wide, Slide, and Erne</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-wide-slide-erne-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+
+
+</ol>
+
+
+
+
 
 
