@@ -160,7 +160,31 @@ Here is the drilling guide for week 4: <a href="../Pickleball_materials/HVP_Sess
 
 </ol>
 
+<h3> Week 5: Assessment Baseline </h3>
 
+Here is the drilling guide for week 5: <a href="../Pickleball_materials/HVP_Session_5_Drills.pdf"> (.pdf link) </a>
+
+<ol>
+  <li>Kitchen Ladder Battle</li>
+  <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/01-kitchen-ladder-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+  <li>Drop Baselines</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/02-drop-baselines-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Serve / Return Baselines</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/03-serve-return-baselines-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+  <li>Speedup Wide, Slide, and Erne</li>
+    <p align="center">
+<img src="https://raw.githubusercontent.com/drdeford/drdeford.github.io/refs/heads/master/Pickleball_materials/04-deep-baselines-court-only.gif" width="75%"  title="Wide and Slide Drill" />
+</p>
+
+</ol>
 
 
 
